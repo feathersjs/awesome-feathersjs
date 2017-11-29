@@ -11,7 +11,8 @@
 
 - [Resources](#resources)
   - [Official](#official-resources)
-  - [Videos](#official-resources)
+  - [Videos](#videos)
+  - [Articles](#articles-and-blog-posts)
   - [Examples](#examples)
 - [Projects Using Feathers](#projects-using-feathers)
 - [Plugins](#plugins)
@@ -35,7 +36,7 @@
   - [Framework Agnostic](#framework-agnostic)
   - [DoneJS](#donejs)
   - [React and Redux](#react-and-redux)
-  - [Vue.js](#vue.js)
+  - [Vue.js](#vuejs)
   - [Angular 1](#angular-1)
   - [Angular 2](#angular-2)
   - [Polymer](#polymer)
@@ -47,16 +48,22 @@
 
 ### Official Resources
 
-- [Docs](https://docs.feathersjs.com)
 - [Website](https://feathersjs.com)
-- [Guides](https://docs.feathersjs.com)
+- [Docs](https://docs.feathersjs.com)
+- [Blog](https://blog.feathersjs.com)
+- [Guides](https://docs.feathersjs.com/guides/readme.md)
 - [Slack](https://slack.feathersjs.com)
+- [Twitter](https://twitter.com/feathersjs)
 
 ### Videos
 
 - [The FeathersJS Youtube playlist](https://www.youtube.com/playlist?list=PLwSdIiqnDlf_lb5y1liQK2OW5daXYgKOe)
 - [FeathersJS Real-Time Chat App - Tutorial](https://www.youtube.com/watch?v=CuM4vLkBaik)
 - [Fullstack Feathersjs and React Web App](https://www.youtube.com/playlist?list=PLN3n1USn4xlnulnnBGD2RMid_p7xVj9xU)
+
+### Articles and Blog Posts
+
+- [Integrating Nuxt into your Feathers Application](https://blog.feathersjs.com/ssr-vuejs-app-with-feathers-and-nuxt-bb7dfd3e6397)
 
 ### Examples
 
@@ -266,7 +273,7 @@ The Feathers client works with React Native but here is a collection of native l
 - [feathers-reduxify-services](https://github.com/eddyystop/feathers-reduxify-services) - Wrap Feathers services so they work transparently and perfectly with Redux.
 - [feathers-reduxify-authentication](https://github.com/eddyystop/feathers-reduxify-authentication) - Wrap Feathers.authentication so it works with Redux, and with auth packages for React-Router.
 
-### Vue.js
+### VueJS
 
 - [feathers-vuex](https://github.com/feathersjs/feathers-vuex) ![Official Feathers Module](/img/tiny-feathers-logo.png)  - Integration of Feathers services with your Vuex store.
 - [vue-syncers-feathers](https://www.npmjs.com/package/vue-syncers-feathers) - Synchronises feathers services with vue objects, updated in real time (connector)
