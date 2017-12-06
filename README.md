@@ -216,7 +216,6 @@
 
 ### Utilities
 
-- [feathers-bootstrap](https://github.com/daffl/feathers-bootstrap)
 - [@feathersjs/cli](https://github.com/feathersjs/cli) ![Official Feathers Module](/img/tiny-feathers-logo.png)
 - [@feathersjs/client](https://docs.feathersjs.com/api/client.html) ![Official Feathers Module](/img/tiny-feathers-logo.png)
 - [@feathersjs/configuration](https://docs.feathersjs.com/api/configuration.html) ![Official Feathers Module](/img/tiny-feathers-logo.png)
@@ -224,7 +223,8 @@
 - [feathers-generator](https://github.com/feathersjs/feathers-generator) ![Official Feathers Module](/img/tiny-feathers-logo.png)
 - [generator-feathers-plugin](https://github.com/feathersjs/generator-feathers-plugin) ![Official Feathers Module](/img/tiny-feathers-logo.png)
 
-- [feathers-fs](https://github.com/feathersjs/feathers-fs) ![Official Feathers Module](/img/tiny-feathers-logo.png) - Use the FeathersJS service interface to read and write data in the file system.
+- [feathers-bootstrap](https://github.com/daffl/feathers-bootstrap)
+- [feathers-fs](https://github.com/feathersjs/feathers-fs) - Use the FeathersJS service interface to read and write data in the file system.
 - [feathers-hooks-utils](https://www.npmjs.com/package/feathers-hooks-utils) - Utility library for writing Feathersjs hooks. (hooks)
 - [feathers-logger](https://github.com/feathersjs-ecosystem/feathers-logger)
 - [feathers-profiler](https://github.com/feathers-plug/feathers-profiler)
