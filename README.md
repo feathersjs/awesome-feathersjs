@@ -128,33 +128,34 @@
 
 ### Database
 
+- [feathers-elasticsearch](https://github.com/feathersjs-ecosystem/feathers-elasticsearch) ![Official Feathers Module](/img/tiny-feathers-logo.png)
+- [feathers-knex](https://github.com/feathersjs-ecosystem/feathers-knex) ![Official Feathers Module](/img/tiny-feathers-logo.png)
+- [feathers-localstorage](https://github.com/feathersjs-ecosystem/feathers-localstorage) ![Official Feathers Module](/img/tiny-feathers-logo.png)
+- [feathers-memory](https://github.com/feathersjs-ecosystem/feathers-memory) ![Official Feathers Module](/img/tiny-feathers-logo.png)
+- [feathers-mongodb](https://github.com/feathersjs-ecosystem/feathers-mongodb) ![Official Feathers Module](/img/tiny-feathers-logo.png)
+- [feathers-mongoose](https://github.com/feathersjs-ecosystem/feathers-mongoose) ![Official Feathers Module](/img/tiny-feathers-logo.png)
+- [feathers-nedb](https://github.com/feathersjs-ecosystem/feathers-nedb) ![Official Feathers Module](/img/tiny-feathers-logo.png)
+- [feathers-sequelize](https://github.com/feathersjs-ecosystem/feathers-sequelize) ![Official Feathers Module](/img/tiny-feathers-logo.png)
+
 - [amity-mongodb](https://www.npmjs.com/package/amity-mongodb) - Use various FeatherJS services to manage a MongoDB server with Amity.
 - [feathers-blob](https://github.com/feathersjs-ecosystem/feathers-blob) - Feathers abstract blob store service (service)
 - [feathers-blueprints](https://www.npmjs.com/package/feathers-blueprints) - Add some of the Sails.js blueprints functionality to Feathers. (configure)
 - [feathers-bookshelf](https://www.npmjs.com/package/feathers-bookshelf) - A bookshelf ORM service adapter (service)
 - [feathers-couchdb](https://github.com/lontongcorp/feathers-couchdb)
 - [feathers-dynamodb](https://github.com/jus101/feathers-dynamodb) - Work in progress - help wanted!
-- [feathers-elasticsearch](https://github.com/feathersjs-ecosystem/feathers-elasticsearch)
 - [feathers-filemaker](https://www.npmjs.com/package/feathers-filemaker) - Filemaker adapter for feathers.js
-- [feathers-knex](https://github.com/feathersjs-ecosystem/feathers-knex)
 - [feathers-levelup](https://www.npmjs.com/package/feathers-levelup)
 - [feathers-linvodb](https://www.npmjs.com/package/feathers-linvodb) - Create an LinvoDB Service for FeatherJS. (service)
-- [feathers-localstorage](https://github.com/feathersjs-ecosystem/feathers-localstorage)
 - [feathers-loopback-connector](https://github.com/kethan/feathers-loopback-connector)
-- [feathers-memory](https://github.com/feathersjs-ecosystem/feathers-memory)
 - [feathers-mongo-collections](https://www.npmjs.com/package/feathers-mongo-collections) - MongoDB collections service for FeathersJS. (service)
 - [feathers-mongo-databases](https://www.npmjs.com/package/feathers-mongo-databases) - Create a MongoDB database service for FeathersJS. (service)
-- [feathers-mongodb](https://github.com/feathersjs-ecosystem/feathers-mongodb)
 - [feathers-mongodb-revisions](https://www.npmjs.com/package/feathers-mongodb-revisions) - This Feathers database adapter extends the basic MongoDB adapter, adding revision support. (service)
-- [feathers-mongoose](https://github.com/feathersjs-ecosystem/feathers-mongoose)
-- [feathers-nedb](https://github.com/feathersjs-ecosystem/feathers-nedb)
 - [feathers-nedb-dump](https://www.npmjs.com/package/feathers-nedb-dump) - Middleware for Feathers.js - dumps and restores NeDB database for a given service (middleware)
 - [feathers-objection](https://github.com/mcchrish/feathers-objection) - A service adapter for [Objection.js](https://vincit.github.io/objection.js) - A minimal SQL ORM built on top of Knex.
 - [feathers-orm-service](https://www.npmjs.com/package/feathers-orm-service) - Easily create an Object Relational Mapping Service for Featherjs.
 - [feathers-rethinkdb](https://github.com/feathersjs-ecosystem/feathers-rethinkdb)
 - [feathers-rethinky](https://www.npmjs.com/package/feathers-rethinky) - Thinky.js RethinkDB Adaptor for Feathers JS
 - [feathers-seeder](https://www.npmjs.com/package/feathers-seeder) - Straightforward data seeder for FeathersJS services.
-- [feathers-sequelize](https://github.com/feathersjs-ecosystem/feathers-sequelize)
 - [feathers-skypager](https://www.npmjs.com/package/feathers-skypager) - A skypager ORM service adapter (service)
 - [feathers-solr](https://www.npmjs.com/package/feathers-solr) - Solr Adapter for Feathersjs
 - [feathers-waterline](https://www.npmjs.com/package/feathers-waterline)
@@ -216,16 +217,17 @@
 ### Utilities
 
 - [feathers-bootstrap](https://github.com/daffl/feathers-bootstrap)
-- [feathers-cli](https://github.com/feathersjs/cli) ![Official Feathers Module](/img/tiny-feathers-logo.png)
-- [feathers-client](https://docs.feathersjs.com/api/client.html) ![Official Feathers Module](/img/tiny-feathers-logo.png)
-- [feathers-configuration](https://docs.feathersjs.com/api/configuration.html) ![Official Feathers Module](/img/tiny-feathers-logo.png)
-- [feathers-errors](https://docs.feathersjs.com/api/errors.html) ![Official Feathers Module](/img/tiny-feathers-logo.png)
-- [feathers-fs](https://github.com/feathersjs/feathers-fs) ![Official Feathers Module](/img/tiny-feathers-logo.png) - Use the FeathersJS service interface to read and write data in the file system.
+- [@feathersjs/cli](https://github.com/feathersjs/cli) ![Official Feathers Module](/img/tiny-feathers-logo.png)
+- [@feathersjs/client](https://docs.feathersjs.com/api/client.html) ![Official Feathers Module](/img/tiny-feathers-logo.png)
+- [@feathersjs/configuration](https://docs.feathersjs.com/api/configuration.html) ![Official Feathers Module](/img/tiny-feathers-logo.png)
+- [@feathersjs/errors](https://docs.feathersjs.com/api/errors.html) ![Official Feathers Module](/img/tiny-feathers-logo.png)
 - [feathers-generator](https://github.com/feathersjs/feathers-generator) ![Official Feathers Module](/img/tiny-feathers-logo.png)
+- [generator-feathers-plugin](https://github.com/feathersjs/generator-feathers-plugin) ![Official Feathers Module](/img/tiny-feathers-logo.png)
+
+- [feathers-fs](https://github.com/feathersjs/feathers-fs) ![Official Feathers Module](/img/tiny-feathers-logo.png) - Use the FeathersJS service interface to read and write data in the file system.
 - [feathers-hooks-utils](https://www.npmjs.com/package/feathers-hooks-utils) - Utility library for writing Feathersjs hooks. (hooks)
 - [feathers-logger](https://github.com/feathersjs-ecosystem/feathers-logger)
 - [feathers-profiler](https://github.com/feathers-plug/feathers-profiler)
-- [generator-feathers-plugin](https://github.com/feathersjs/generator-feathers-plugin) ![Official Feathers Module](/img/tiny-feathers-logo.png)
 - [feathers-versionate](https://github.com/luke3butler/feathers-versionate) - Utility for creating and working with nested service paths.
 
 
