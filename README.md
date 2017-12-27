@@ -220,14 +220,15 @@
 - [@feathersjs/client](https://docs.feathersjs.com/api/client.html) ![Official Feathers Module](/img/tiny-feathers-logo.png)
 - [@feathersjs/configuration](https://docs.feathersjs.com/api/configuration.html) ![Official Feathers Module](/img/tiny-feathers-logo.png)
 - [@feathersjs/errors](https://docs.feathersjs.com/api/errors.html) ![Official Feathers Module](/img/tiny-feathers-logo.png)
-- [feathers-generator](https://github.com/feathersjs/feathers-generator) ![Official Feathers Module](/img/tiny-feathers-logo.png)
+- [generator-feathers](https://github.com/feathersjs/generator-feathers) ![Official Feathers Module](/img/tiny-feathers-logo.png)
 - [generator-feathers-plugin](https://github.com/feathersjs/generator-feathers-plugin) ![Official Feathers Module](/img/tiny-feathers-logo.png)
 
-- [feathers-bootstrap](https://github.com/daffl/feathers-bootstrap)
+- [feathers-bootstrap](https://github.com/daffl/feathers-bootstrap) - Feathers application bootstrap and configuration using JSON files
+- [feathers-generator](https://github.com/feathersjs-ecosystem/feathers-generator) - A Metalsmith based generator using `feathers-bootstrap`
 - [feathers-fs](https://github.com/feathersjs/feathers-fs) - Use the FeathersJS service interface to read and write data in the file system.
 - [feathers-hooks-utils](https://www.npmjs.com/package/feathers-hooks-utils) - Utility library for writing Feathersjs hooks. (hooks)
 - [feathers-logger](https://github.com/feathersjs-ecosystem/feathers-logger)
-- [feathers-profiler](https://github.com/feathers-plug/feathers-profiler)
+- [feathers-profiler](https://github.com/feathers-plus/feathers-profiler)
 - [feathers-versionate](https://github.com/luke3butler/feathers-versionate) - Utility for creating and working with nested service paths.
 
 
