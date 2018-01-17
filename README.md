@@ -144,7 +144,6 @@
 - [feathers-couchdb](https://github.com/lontongcorp/feathers-couchdb)
 - [feathers-dynamodb](https://github.com/jus101/feathers-dynamodb) - Work in progress - help wanted!
 - [feathers-filemaker](https://www.npmjs.com/package/feathers-filemaker) - Filemaker adapter for feathers.js
-- [feathers-levelup](https://www.npmjs.com/package/feathers-levelup)
 - [feathers-linvodb](https://www.npmjs.com/package/feathers-linvodb) - Create an LinvoDB Service for FeatherJS. (service)
 - [feathers-loopback-connector](https://github.com/kethan/feathers-loopback-connector)
 - [feathers-mongo-collections](https://www.npmjs.com/package/feathers-mongo-collections) - MongoDB collections service for FeathersJS. (service)
@@ -158,7 +157,6 @@
 - [feathers-seeder](https://www.npmjs.com/package/feathers-seeder) - Straightforward data seeder for FeathersJS services.
 - [feathers-skypager](https://www.npmjs.com/package/feathers-skypager) - A skypager ORM service adapter (service)
 - [feathers-solr](https://www.npmjs.com/package/feathers-solr) - Solr Adapter for Feathersjs
-- [feathers-waterline](https://www.npmjs.com/package/feathers-waterline)
 - [nextql-feathers](https://github.com/giapnguyen74/nextql-feathers) - Featherjs plugin for NextQL-Yet Another Data Query Language. Equivalent GraphQL but much more simple
 
 
@@ -227,7 +225,6 @@
 - [feathers-generator](https://github.com/feathersjs-ecosystem/feathers-generator) - A Metalsmith based generator using `feathers-bootstrap`
 - [feathers-fs](https://github.com/feathersjs/feathers-fs) - Use the FeathersJS service interface to read and write data in the file system.
 - [feathers-hooks-utils](https://www.npmjs.com/package/feathers-hooks-utils) - Utility library for writing Feathersjs hooks. (hooks)
-- [feathers-logger](https://github.com/feathersjs-ecosystem/feathers-logger)
 - [feathers-profiler](https://github.com/feathers-plus/feathers-profiler)
 - [feathers-versionate](https://github.com/luke3butler/feathers-versionate) - Utility for creating and working with nested service paths.
 
