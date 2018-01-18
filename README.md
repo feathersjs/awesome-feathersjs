@@ -248,14 +248,12 @@ The Feathers client works with React Native but here is a collection of native l
 
 ## Android
 
-- [feathers-android](https://github.com/feathersjs-ecosystem/feathers-android) - An Android client.
-
 ## JS Clients
 
 ### Framework Agnostic
 
 - [@feathersjs/client](https://docs.feathersjs.com/api/client.html) ![Official Feathers Module](/img/tiny-feathers-logo.png) - All of the main client packages rolled into one.
-- [feathers-reactive](https://github.com/feathersjs-ecosystem/feathers-reactive) - Turns a Feathers service call into an RxJS observables that automatically updates on real-time events. (configure)
+- [feathers-reactive](https://github.com/feathersjs-ecosystem/feathers-reactive) - Live query streams for Feathers. Turns a Feathers service call into an RxJS observables that automatically updates on real-time events.
 
 ### DoneJS
 
