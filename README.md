@@ -227,6 +227,7 @@
 - [feathers-hooks-utils](https://www.npmjs.com/package/feathers-hooks-utils) - Utility library for writing Feathersjs hooks. (hooks)
 - [feathers-profiler](https://github.com/feathers-plus/feathers-profiler)
 - [feathers-versionate](https://github.com/luke3butler/feathers-versionate) - Utility for creating and working with nested service paths.
+- [feathers-findone](https://github.com/fridays/feathers-findone) - Adds a .findOne() method to services in Feathers.js
 
 
 ### Validation
