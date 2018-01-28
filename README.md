@@ -84,6 +84,7 @@
 - [Build a CRUD App Using React, Redux and FeathersJS](https://www.sitepoint.com/crud-app-react-redux-feathersjs/)
 - [feathers-nuxt](https://github.com/silvestreh/feathers-nuxt) - A sample/starter for server-side rendered Vue.js + Feathers applications that supports user authentication
 - [Passwordless Auth Example Using feathers-authentication-management](https://github.com/rhythnic/feathers-passwordless-auth-example)
+- [Feathers + Forest Admin example](https://github.com/ForestAdmin/forest-examples/tree/master/examples/feathers/sql-database) - An example for integrating Feathers with [Forest admin](https://www.forestadmin.com/).
 
 ## Projects Using Feathers
 
@@ -249,7 +250,7 @@ The Feathers client works with React Native but here is a collection of native l
 
 ## Android
 
-## JS Clients
+## Frontend frameworks
 
 ### Framework Agnostic
 
