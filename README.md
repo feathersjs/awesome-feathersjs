@@ -64,6 +64,7 @@
 ### Articles and Blog Posts
 
 - [Integrating Nuxt into your Feathers Application](https://blog.feathersjs.com/ssr-vuejs-app-with-feathers-and-nuxt-bb7dfd3e6397)
+- [How to do server side rendering with Feathers.js and Next.js](http://www.albertgao.xyz/2018/02/04/how-to-do-server-side-rendering-with-feathersjs-and-nextjs/)
 
 ### Examples
 
@@ -85,6 +86,7 @@
 - [feathers-nuxt](https://github.com/silvestreh/feathers-nuxt) - A sample/starter for server-side rendered Vue.js + Feathers applications that supports user authentication
 - [Passwordless Auth Example Using feathers-authentication-management](https://github.com/rhythnic/feathers-passwordless-auth-example)
 - [Feathers + Forest Admin example](https://github.com/ForestAdmin/forest-examples/tree/master/examples/feathers/sql-database) - An example for integrating Feathers with [Forest admin](https://www.forestadmin.com/).
+- [Feathers + Next.js](https://github.com/Albert-Gao/feathers-next-example)
 
 ## Projects Using Feathers
 
