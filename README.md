@@ -106,7 +106,7 @@
 - [Stoplight](https://stoplight.io/)
 - [Taxfyle](https://www.taxfyle.com/)
 - [Work ID](http://work.id/)
-
+- [Weacast](https://weacast.gitbooks.io/weacast-docs/)
 
 ## Plugins
 
@@ -151,7 +151,9 @@
 - [feathers-loopback-connector](https://github.com/kethan/feathers-loopback-connector)
 - [feathers-mongo-collections](https://www.npmjs.com/package/feathers-mongo-collections) - MongoDB collections service for FeathersJS. (service)
 - [feathers-mongo-databases](https://www.npmjs.com/package/feathers-mongo-databases) - Create a MongoDB database service for FeathersJS. (service)
+- [feathers-mongodb-management](https://github.com/feathersjs-ecosystem/feathers-mongodb-management) - Manage MongoDB users, databases and collections using FeathersJS services.
 - [feathers-mongodb-revisions](https://www.npmjs.com/package/feathers-mongodb-revisions) - This Feathers database adapter extends the basic MongoDB adapter, adding revision support. (service)
+- [feathers-mongodb-fuzzy-search](https://github.com/arve0/feathers-mongodb-fuzzy-search) - Add fuzzy search to your mongodb service queries
 - [feathers-nedb-dump](https://www.npmjs.com/package/feathers-nedb-dump) - Middleware for Feathers.js - dumps and restores NeDB database for a given service (middleware)
 - [feathers-objection](https://github.com/mcchrish/feathers-objection) - A service adapter for [Objection.js](https://vincit.github.io/objection.js) - A minimal SQL ORM built on top of Knex.
 - [feathers-orm-service](https://www.npmjs.com/package/feathers-orm-service) - Easily create an Object Relational Mapping Service for Featherjs.
@@ -194,6 +196,7 @@
 - [feathers-cluster](https://www.npmjs.com/package/feathers-cluster) - Easily take advantage of multi-core systems for Feathers. (configure)
 - [feathers-sync](https://github.com/feathersjs-ecosystem/feathers-sync) - Synchronize service events between application instances using MongoDB publish/subscribe (configure)
 - [feathers-batch](https://github.com/feathersjs-ecosystem/feathers-batch/) - Batch multiple Feathers service calls into one (service)
+- [feathers-distributed](https://github.com/kalisio/feathers-distributed) - Distribute your Feathers services as microservices
 
 ### Social media
 
