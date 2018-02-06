@@ -106,7 +106,7 @@
 - [Stoplight](https://stoplight.io/)
 - [Taxfyle](https://www.taxfyle.com/)
 - [Work ID](http://work.id/)
-
+- [Weacast](https://weacast.gitbooks.io/weacast-docs/)
 
 ## Plugins
 
