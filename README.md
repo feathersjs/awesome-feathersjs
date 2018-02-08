@@ -66,6 +66,7 @@
 
 - [Integrating Nuxt into your Feathers Application](https://blog.feathersjs.com/ssr-vuejs-app-with-feathers-and-nuxt-bb7dfd3e6397)
 - [How to do server side rendering with Feathers.js and Next.js](http://www.albertgao.xyz/2018/02/04/how-to-do-server-side-rendering-with-feathersjs-and-nextjs/)
+- [Russian artiçle - Связи между таблицами sequelize в FeathersJS](https://weburoki.pro/model-relation-feathers-feathers)
 
 ### Examples
 
