@@ -53,6 +53,7 @@
 - [Blog](https://blog.feathersjs.com)
 - [Guides](https://docs.feathersjs.com/guides/readme.md)
 - [Slack](https://slack.feathersjs.com)
+- [Telegram Russian chat](https://t.me/featherjs)
 - [Twitter](https://twitter.com/feathersjs)
 
 ### Videos
