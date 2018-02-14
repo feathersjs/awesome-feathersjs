@@ -175,8 +175,6 @@
 ### Email and SMS
 
 - [feathers-mailer](https://github.com/feathersjs-ecosystem/feathers-mailer) - Feathers mailer service using nodemailer (service)
-- [feathers-mailgun](https://github.com/feathersjs-ecosystem/feathers-mailgun) - A Mailgun Service for FeatherJS. (service)
-- [feathers-sendgrid](https://github.com/feathersjs-ecosystem/feathers-sendgrid)- A SendGrid Service for FeatherJS. (service)
 
 ### Hooks
 
