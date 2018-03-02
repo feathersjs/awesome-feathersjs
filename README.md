@@ -148,6 +148,7 @@
 - [feathers-blueprints](https://www.npmjs.com/package/feathers-blueprints) - Add some of the Sails.js blueprints functionality to Feathers. (configure)
 - [feathers-bookshelf](https://www.npmjs.com/package/feathers-bookshelf) - A bookshelf ORM service adapter (service)
 - [feathers-couchdb](https://github.com/lontongcorp/feathers-couchdb)
+- [feathersjs-couchbase](https://github.com/Sieabah/feathersjs-couchbase) - Full FeathersJS Query API for couchbase-server
 - [feathers-dynamodb](https://github.com/jus101/feathers-dynamodb) - Work in progress - help wanted!
 - [feathers-filemaker](https://www.npmjs.com/package/feathers-filemaker) - Filemaker adapter for feathers.js
 - [feathers-linvodb](https://www.npmjs.com/package/feathers-linvodb) - Create an LinvoDB Service for FeatherJS. (service)
