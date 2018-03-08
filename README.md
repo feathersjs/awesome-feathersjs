@@ -117,7 +117,7 @@
 
 - [@feathersjs/authentication](https://docs.feathersjs.com/api/authentication/server.html) ![Official Feathers Module](/img/tiny-feathers-logo.png)
 - [@feathersjs/authentication-client](https://docs.feathersjs.com/api/authentication/client.html) ![Official Feathers Module](/img/tiny-feathers-logo.png)
-- [@feathersjs/authentication-local](https://docs.feathersjs.com/api/authentication/client.html) ![Official Feathers Module](/img/tiny-feathers-logo.png)
+- [@feathersjs/authentication-local](https://docs.feathersjs.com/api/authentication/local.html) ![Official Feathers Module](/img/tiny-feathers-logo.png)
 - [@feathersjs/authentication-oauth1](https://docs.feathersjs.com/api/authentication/oauth1.html) ![Official Feathers Module](/img/tiny-feathers-logo.png)
 - [@feathersjs/authentication-oauth2](https://docs.feathersjs.com/api/authentication/oauth2.html) ![Official Feathers Module](/img/tiny-feathers-logo.png)
 
