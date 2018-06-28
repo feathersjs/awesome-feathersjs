@@ -104,6 +104,7 @@
 - [HaulHound](https://haulhound.com/)
 - [J.A.B. Property Investments](https://jabpi.com)
 - [Koola](http://koola.io/)
+- [Krawler](https://kalisio.github.io/krawler/)
 - [Shakepay](https://shakepay.co)
 - [Sleeker](https://sleeker.co)
 - [Simpla](https://www.simpla.io/)
