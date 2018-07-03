@@ -91,6 +91,7 @@
 - [Passwordless Auth Example Using feathers-authentication-management](https://github.com/rhythnic/feathers-passwordless-auth-example)
 - [Feathers + Forest Admin example](https://github.com/ForestAdmin/forest-examples/tree/master/examples/feathers/sql-database) - An example for integrating Feathers with [Forest admin](https://www.forestadmin.com/).
 - [Feathers + Next.js](https://github.com/Albert-Gao/feathers-next-example)
+- [Feathers + Aor-feathers-client + Admin on Rest](https://github.com/kfern/feathers-aor-test-integration)
 
 ## Projects Using Feathers
 
@@ -307,3 +308,7 @@ Submit yours!
 ### Mithril
 
 - [feathers-mithril](https://www.npmjs.com/package/feathers-mithril) - Connect feathers.js to mithril.js (connector)
+
+### Admin on Rest
+
+- [Aor-feathers-client](https://github.com/josx/aor-feathers-client) - A feathers rest client for admin-on-rest (Admin)
