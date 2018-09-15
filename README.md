@@ -75,6 +75,7 @@
 - [Feathers Chat](https://github.com/feathersjs/feathers-chat) ![Official Feathers Repo](/img/tiny-feathers-logo.png)
 - [Feathers React Native Chat](https://github.com/feathersjs-ecosystem/feathers-react-native-chat)
 - [Feathers-Vuex (Vue.js) Chat](https://github.com/feathers-plus/feathers-chat-vuex)
+- [Feathers-Vuex (Vue.js) TodoMVC example project](https://github.com/wdmtech/feathers-vuex-todomvc)
 - [Best Buy API Playground](https://github.com/BestBuy/api-playground)
 - [Feathers + Quasar](https://github.com/claustres/quasar-feathers-tutorial)
 - [Feathers + Apollo](https://github.com/swarthout/feathers-apollo)
