@@ -198,6 +198,7 @@
 ### Payments
 
 - [feathers-stripe](https://github.com/feathersjs-ecosystem/feathers-stripe)
+- [feathers-stripe-webhooks](https://github.com/fixate/feathers-stripe-webhooks)
 
 ### Scaling
 
