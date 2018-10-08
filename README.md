@@ -7,7 +7,7 @@
 
 # Awesome Feathers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome things related to FeathersJS
+> A list of awesome things related to FeathersJS
 
 - [Resources](#resources)
   - [Official](#official-resources)
