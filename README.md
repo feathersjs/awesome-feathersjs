@@ -96,6 +96,8 @@
 - [MyEthereum.app: Feathers + Sequelize + React + Redux + Jest + Zeit deployments](https://github.com/petermikitsh/myethereumapp)
 - [Feathers + Vue and Nuxt](https://github.com/7kmCo/feathers-vue-nuxt) Nuxt.js or Vue.js templates.
 - [Feathers + Nuxt Boilerplate](https://gitlab.com/fexell/featherjs-nuxtjs-boilerplate) Feathers + Nuxt boilerplate with Login, Sign Up, Reauthentication, etc.
+- [Quasar Feathers Structured Conversation](https://github.com/KnowledgeGarden/tqks-featherweight-prototype)
+- [Quasar Feathers tutorial](https://github.com/claustres/quasar-feathers-tutorial)
 
 ## Projects Using Feathers
 
@@ -117,6 +119,7 @@
 - [Taxfyle](https://www.taxfyle.com/)
 - [Work ID](http://work.id/)
 - [Weacast](https://weacast.gitbooks.io/weacast-docs/)
+- [June.ai](https://june.ai/)
 
 ## Plugins
 
