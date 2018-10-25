@@ -242,7 +242,7 @@
 - [generator-feathers](https://github.com/feathersjs/generator-feathers) ![Official Feathers Module](/img/tiny-feathers-logo.png)
 - [generator-feathers-plugin](https://github.com/feathersjs/generator-feathers-plugin) ![Official Feathers Module](/img/tiny-feathers-logo.png)
 
-- [FeatthersQuery](https://trinly01.github.io/FeathersQuery/) - Lightweight Graphical User Interface (GUI) for Feathers Services, just a way to edit documents manually with a user-friendly interface, as well as create and delete documents and collections
+- [FeathersQuery](https://trinly01.github.io/FeathersQuery/) - Feathers Query is a Lightweight Graphical User Interface (GUI) for Feathers Services. It is a Visual Tool to help you manage data collections.
 - [feathers-bootstrap](https://github.com/daffl/feathers-bootstrap) - Feathers application bootstrap and configuration using JSON files
 - [feathers-generator](https://github.com/feathersjs-ecosystem/feathers-generator) - A Metalsmith based generator using `feathers-bootstrap`
 - [feathers-fs](https://github.com/feathersjs/feathers-fs) - Use the FeathersJS service interface to read and write data in the file system.
@@ -279,7 +279,7 @@ The Feathers client works with React Native but here is a collection of native l
 ### Framework Agnostic
 
 - [@feathersjs/client](https://docs.feathersjs.com/api/client.html) ![Official Feathers Module](/img/tiny-feathers-logo.png) - All of the main client packages rolled into one.
-- [wings-feathers](https://www.npmjs.com/package/wings-feathers) - A FeathersJS 4-Way reactive data sync for any frontend framework.
+- [wings-feathers](https://www.npmjs.com/package/wings-feathers) - A FeathersJS 4-Way realtime reactive data sync and callback observable for any frontend frameworks (ie. React, Vue, Angular)
 - [feathers-reactive](https://github.com/feathersjs-ecosystem/feathers-reactive) - Live query streams for Feathers. Turns a Feathers service call into an RxJS observables that automatically updates on real-time events.
 
 ### DoneJS
