@@ -154,7 +154,7 @@
 - [feathers-sequelize](https://github.com/feathersjs-ecosystem/feathers-sequelize) ![Official Feathers Module](/img/tiny-feathers-logo.png)
 
 - [amity-mongodb](https://www.npmjs.com/package/amity-mongodb) - Use various FeatherJS services to manage a MongoDB server with Amity.
-- [feathers-arangodb](https://github.com/Brian-McBride/feathers-arangodb) - A Feathers database adapter for ArangoDB using official NodeJS driver for ArangoDB.
+- [feathers-arangodb](https://github.com/AnatidaeProject/feathers-arangodb) - A Feathers database adapter for ArangoDB using official NodeJS driver for ArangoDB.
 - [feathers-blob](https://github.com/feathersjs-ecosystem/feathers-blob) - Feathers abstract blob store service (service)
 - [feathers-blueprints](https://www.npmjs.com/package/feathers-blueprints) - Add some of the Sails.js blueprints functionality to Feathers. (configure)
 - [feathers-bookshelf](https://www.npmjs.com/package/feathers-bookshelf) - A bookshelf ORM service adapter (service)
