@@ -101,6 +101,7 @@
 
 ## Projects Using Feathers
 
+- [Akt'n'Map](https://aktnmap.com)
 - [BeachfrontDigital](https://beachfront.digital)
 - [ContactImpact](https://www.contactimpact.de)
 - [Equibit Group](https://equibitgroup.com/)
