@@ -98,6 +98,7 @@
 - [Feathers + Nuxt Boilerplate](https://gitlab.com/fexell/featherjs-nuxtjs-boilerplate) Feathers + Nuxt boilerplate with Login, Sign Up, Reauthentication, etc.
 - [Quasar Feathers Structured Conversation](https://github.com/KnowledgeGarden/tqks-featherweight-prototype)
 - [Quasar Feathers tutorial](https://github.com/claustres/quasar-feathers-tutorial)
+- [Feathers + Nuxt Sao Template](https://github.com/feathers-nuxt/template-app)
 
 ## Projects Using Feathers
 
