@@ -326,6 +326,10 @@ Submit yours!
 
 - [feathers-mithril](https://www.npmjs.com/package/feathers-mithril) - Connect feathers.js to mithril.js (connector)
 
-### Admin on Rest
+### React Admin
 
-- [Aor-feathers-client](https://github.com/josx/aor-feathers-client) - A feathers rest client for admin-on-rest (Admin)
+- [ra-data-feathers](https://github.com/josx/ra-data-feathers) - A feathers rest/socket.io client for react-admin. (Admin)
+
+### Admin on Rest (replaced by React Admin)
+
+- [Aor-feathers-client](https://github.com/josx/aor-feathers-client) - A feathers rest client for admin-on-rest. (Admin)
