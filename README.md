@@ -172,7 +172,7 @@
 - [feathers-mongodb-revisions](https://www.npmjs.com/package/feathers-mongodb-revisions) - This Feathers database adapter extends the basic MongoDB adapter, adding revision support. (service)
 - [feathers-mongodb-fuzzy-search](https://github.com/arve0/feathers-mongodb-fuzzy-search) - Add fuzzy search to your mongodb service queries
 - [feathers-nedb-dump](https://www.npmjs.com/package/feathers-nedb-dump) - Middleware for Feathers.js - dumps and restores NeDB database for a given service (middleware)
-- [feathers-objection](https://github.com/mcchrish/feathers-objection) - A service adapter for [Objection.js](https://vincit.github.io/objection.js) - A minimal SQL ORM built on top of Knex.
+- [feathers-objection](https://github.com/feathersjs-ecosystem/feathers-objection) - A service adapter for [Objection.js](https://vincit.github.io/objection.js) - A minimal SQL ORM built on top of Knex.
 - [feathers-orm-service](https://www.npmjs.com/package/feathers-orm-service) - Easily create an Object Relational Mapping Service for Featherjs.
 - [feathers-rethinkdb](https://github.com/feathersjs-ecosystem/feathers-rethinkdb)
 - [feathers-rethinky](https://www.npmjs.com/package/feathers-rethinky) - Thinky.js RethinkDB Adaptor for Feathers JS
