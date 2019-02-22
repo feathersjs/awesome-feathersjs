@@ -26,6 +26,7 @@
   - [Scaling](#scaling)
   - [Social media](#social-media)
   - [Testing](#testing)
+  - [Logging](#logging)
   - [Transports](#transports)
   - [Utilities](#utilities)
   - [Validation](#validation)
@@ -42,7 +43,6 @@
   - [Polymer](#polymer)
   - [AureliaJS](#aureliajs)
   - [Mithril](#mithril)
-
 
 ## Resources
 
@@ -182,11 +182,9 @@
 - [nextql-feathers](https://github.com/giapnguyen74/nextql-feathers) - Featherjs plugin for NextQL-Yet Another Data Query Language. Equivalent GraphQL but much more simple
 - [feathers-cassandra](https://github.com/dekelev/feathers-cassandra) - Feathers service adapter for Cassandra DB based on Express-Cassandra ORM and CassanKnex query builder
 
-
 ### Documentation
 
 - [feathers-swagger](https://github.com/feathersjs-ecosystem/feathers-swagger) - Add documentation to your Feathers services and feed them to Swagger UI. (configure)
-
 
 ### Email and SMS
 
@@ -223,6 +221,10 @@
 
 - [feathers-tests-fake-app-users](https://www.npmjs.com/package/feathers-tests-fake-app-users) - Fake some feathers dependencies in service unit tests. Starter for your customized fakes (service)
 
+### Logging
+
+- [feathers-splunk](https://www.npmjs.com/package/feathers-splunk) - Integrates the splunk into feathersjs services for logging.
+
 ### Transports
 
 - [@feathersjs/primus](https://docs.feathersjs.com/api/primus.html) ![Official Feathers Module](/img/tiny-feathers-logo.png)
@@ -233,7 +235,6 @@
 - [@feathersjs/socketio-client](https://docs.feathersjs.com/api/client/socketio.html) ![Official Feathers Module](/img/tiny-feathers-logo.png)
 
 - [feathers-socketcluster](https://github.com/polst/feathers-socketcluster) - Use SocketCluster for client/server communication. Not published.
-
 
 ### Utilities
 
@@ -255,7 +256,6 @@
 - [feathers-opentracing](https://github.com/dekelev/feathers-opentracing) - OpenTracing integration for FeathersJS services
 
 - [fastfeathers](https://github.com/edwardsmarkf/fastfeathers) - collection of bash-shell scripts to run various feathers examples quickly
-
 
 ### Validation
 
