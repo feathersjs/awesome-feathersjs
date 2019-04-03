@@ -221,6 +221,7 @@
 ### Testing
 
 - [feathers-tests-fake-app-users](https://www.npmjs.com/package/feathers-tests-fake-app-users) - Fake some feathers dependencies in service unit tests. Starter for your customized fakes (service)
+- [feathers-factory](https://github.com/JorgenVatle/feathers-factory) - Quickly build reusable random data generators for your Feathers services.
 
 ### Logging
 
