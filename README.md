@@ -90,6 +90,7 @@
 - [Build a CRUD App Using React, Redux and FeathersJS](https://www.sitepoint.com/crud-app-react-redux-feathersjs/)
 - [feathers-nuxt](https://github.com/silvestreh/feathers-nuxt) - A sample/starter for server-side rendered Vue.js + Feathers applications that supports user authentication
 - [Passwordless Auth Example Using feathers-authentication-management](https://github.com/rhythnic/feathers-passwordless-auth-example)
+- [Feathers Chat + Login with Facebook](https://github.com/morenoh149/feathers-chat-facebook-signup-api)
 - [Feathers + Forest Admin example](https://github.com/ForestAdmin/forest-examples/tree/master/examples/feathers/sql-database) - An example for integrating Feathers with [Forest admin](https://www.forestadmin.com/).
 - [Feathers + Next.js](https://github.com/Albert-Gao/feathers-next-example)
 - [Feathers + Aor-feathers-client + Admin on Rest](https://github.com/kfern/feathers-aor-test-integration)
