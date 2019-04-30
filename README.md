@@ -261,6 +261,8 @@
 
 - [fastfeathers](https://github.com/edwardsmarkf/fastfeathers) - collection of bash-shell scripts to run various feathers examples quickly
 
+- [feathers-kong](https://github.com/dekelev/feathers-kong) - A Feathers service for [Kong API Gateway](https://docs.konghq.com) admin API
+
 ### Validation
 
 - [feathers-hooks-validate-joi](https://www.npmjs.com/package/feathers-hooks-validate-joi) - Feathers hook utility for schema validation, sanitization and client notification using Joi. (hook)
