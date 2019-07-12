@@ -115,6 +115,7 @@
 - [Headstart](http://www.headstartapp.com/)
 - [HaulHound](https://haulhound.com/)
 - [J.A.B. Property Investments](https://jabpi.com)
+- [JSONLog](https://jsonlog.io)
 - [Koola](http://koola.io/)
 - [Krawler](https://kalisio.github.io/krawler/)
 - [Shakepay](https://shakepay.co)
