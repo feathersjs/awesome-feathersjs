@@ -194,6 +194,7 @@
 ### Email and SMS
 
 - [feathers-mailer](https://github.com/feathersjs-ecosystem/feathers-mailer) - Feathers mailer service using nodemailer (service)
+- [feathers-aws-sns](https://github.com/powerkernel/feathers-aws-sns) - Feathers AWS SNS service to use with Amazon Simple Notification Service (service)
 
 ### Hooks
 
