@@ -266,6 +266,8 @@
 
 - [feathers-kong](https://github.com/dekelev/feathers-kong) - A Feathers service for [Kong API Gateway](https://docs.konghq.com) admin API
 
+- [feathers-hubspot-webhooks](https://github.com/dekelev/feathers-hubspot-webhooks) - Handle HubSpot webhooks in a FeathersJS service
+
 ### Validation
 
 - [feathers-hooks-validate-joi](https://www.npmjs.com/package/feathers-hooks-validate-joi) - Feathers hook utility for schema validation, sanitization and client notification using Joi. (hook)
