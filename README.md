@@ -174,6 +174,7 @@
 - [feathers-mongo-databases](https://www.npmjs.com/package/feathers-mongo-databases) - Create a MongoDB database service for FeathersJS. (service)
 - [feathers-mongodb-management](https://github.com/feathersjs-ecosystem/feathers-mongodb-management) - Manage MongoDB users, databases and collections using FeathersJS services.
 - [feathers-mongodb-revisions](https://www.npmjs.com/package/feathers-mongodb-revisions) - This Feathers database adapter extends the basic MongoDB adapter, adding revision support. (service)
+- [feathers-nedb-puzzy-search](https://www.npmjs.com/package/feathers-nedb-puzzy-search) - Add google-like $search to NeDB service.find queries.
 - [feathers-mongodb-fuzzy-search](https://github.com/arve0/feathers-mongodb-fuzzy-search) - Add fuzzy search to your mongodb service queries
 - [feathers-nedb-dump](https://www.npmjs.com/package/feathers-nedb-dump) - Middleware for Feathers.js - dumps and restores NeDB database for a given service (middleware)
 - [feathers-objection](https://github.com/feathersjs-ecosystem/feathers-objection) - A service adapter for [Objection.js](https://vincit.github.io/objection.js) - A minimal SQL ORM built on top of Knex.
