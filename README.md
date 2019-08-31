@@ -51,7 +51,7 @@
 - [Website](https://feathersjs.com)
 - [Docs](https://docs.feathersjs.com)
 - [Blog](https://blog.feathersjs.com)
-- [Guides](https://docs.feathersjs.com/guides/readme.md)
+- [Guides](https://docs.feathersjs.com/guides)
 - [Slack](https://slack.feathersjs.com)
 - [Telegram Russian chat](https://t.me/featherjs)
 - [Twitter](https://twitter.com/feathersjs)
