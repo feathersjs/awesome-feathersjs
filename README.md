@@ -136,7 +136,6 @@
 - [@feathersjs/authentication-local](https://docs.feathersjs.com/api/authentication/local.html) ![Official Feathers Module](/img/tiny-feathers-logo.png)
 - [@feathersjs/authentication-oauth1](https://docs.feathersjs.com/api/authentication/oauth1.html) ![Official Feathers Module](/img/tiny-feathers-logo.png)
 - [@feathersjs/authentication-oauth2](https://docs.feathersjs.com/api/authentication/oauth2.html) ![Official Feathers Module](/img/tiny-feathers-logo.png)
-
 - [feathers-accounts](https://www.npmjs.com/package/feathers-accounts) - Token-Based User Account System for FeathersJS (configure).
 - [feathers-authentication-popups](https://github.com/feathersjs/feathers-authentication-popups)
 - [feathers-authentication-keystone](https://github.com/virtuozzo/feathers-authentication-keystone)
@@ -158,25 +157,27 @@
 - [feathers-mongoose](https://github.com/feathersjs-ecosystem/feathers-mongoose) ![Official Feathers Module](/img/tiny-feathers-logo.png)
 - [feathers-nedb](https://github.com/feathersjs-ecosystem/feathers-nedb) ![Official Feathers Module](/img/tiny-feathers-logo.png)
 - [feathers-sequelize](https://github.com/feathersjs-ecosystem/feathers-sequelize) ![Official Feathers Module](/img/tiny-feathers-logo.png)
-
 - [amity-mongodb](https://www.npmjs.com/package/amity-mongodb) - Use various FeatherJS services to manage a MongoDB server with Amity.
 - [feathers-arangodb](https://github.com/AnatidaeProject/feathers-arangodb) - A Feathers database adapter for ArangoDB using official NodeJS driver for ArangoDB.
+- [feathers-bee-queue](https://github.com/compwright/feathers-bee-queue) - Feathers service adapter for [Bee-Queue](https://www.npmjs.com/package/bee-queue) jobs
 - [feathers-blob](https://github.com/feathersjs-ecosystem/feathers-blob) - Feathers abstract blob store service (service)
 - [feathers-blueprints](https://www.npmjs.com/package/feathers-blueprints) - Add some of the Sails.js blueprints functionality to Feathers. (configure)
 - [feathers-bookshelf](https://www.npmjs.com/package/feathers-bookshelf) - A bookshelf ORM service adapter (service)
+- [feathers-cassandra](https://github.com/dekelev/feathers-cassandra) - Feathers service adapter for Cassandra DB based on Express-Cassandra ORM and CassanKnex query builder
 - [feathers-couchdb](https://github.com/lontongcorp/feathers-couchdb)
 - [feathersjs-couchbase](https://github.com/Sieabah/feathersjs-couchbase) - Full FeathersJS Query API for couchbase-server
 - [feathers-dynamodb](https://github.com/jus101/feathers-dynamodb) - Work in progress - help wanted!
 - [feathers-filemaker](https://www.npmjs.com/package/feathers-filemaker) - Filemaker adapter for feathers.js
+- [feathers-json-patch](https://github.com/sibartlett/feathers-json-patch) - Add JSON Patch support to any Feathers database adapter or service.
 - [feathers-linvodb](https://www.npmjs.com/package/feathers-linvodb) - Create an LinvoDB Service for FeatherJS. (service)
 - [feathers-loopback-connector](https://github.com/kethan/feathers-loopback-connector)
 - [feathers-mongo-collections](https://www.npmjs.com/package/feathers-mongo-collections) - MongoDB collections service for FeathersJS. (service)
 - [feathers-mongo-databases](https://www.npmjs.com/package/feathers-mongo-databases) - Create a MongoDB database service for FeathersJS. (service)
+- [feathers-mongodb-fuzzy-search](https://github.com/arve0/feathers-mongodb-fuzzy-search) - Add fuzzy search to your mongodb service queries
 - [feathers-mongodb-management](https://github.com/feathersjs-ecosystem/feathers-mongodb-management) - Manage MongoDB users, databases and collections using FeathersJS services.
 - [feathers-mongodb-revisions](https://www.npmjs.com/package/feathers-mongodb-revisions) - This Feathers database adapter extends the basic MongoDB adapter, adding revision support. (service)
-- [feathers-nedb-puzzy-search](https://www.npmjs.com/package/feathers-nedb-puzzy-search) - Add google-like $search to NeDB service.find queries.
-- [feathers-mongodb-fuzzy-search](https://github.com/arve0/feathers-mongodb-fuzzy-search) - Add fuzzy search to your mongodb service queries
 - [feathers-nedb-dump](https://www.npmjs.com/package/feathers-nedb-dump) - Middleware for Feathers.js - dumps and restores NeDB database for a given service (middleware)
+- [feathers-nedb-puzzy-search](https://www.npmjs.com/package/feathers-nedb-puzzy-search) - Add google-like $search to NeDB service.find queries.
 - [feathers-objection](https://github.com/feathersjs-ecosystem/feathers-objection) - A service adapter for [Objection.js](https://vincit.github.io/objection.js) - A minimal SQL ORM built on top of Knex.
 - [feathers-orm-service](https://www.npmjs.com/package/feathers-orm-service) - Easily create an Object Relational Mapping Service for Featherjs.
 - [feathers-rethinkdb](https://github.com/feathersjs-ecosystem/feathers-rethinkdb)
@@ -185,8 +186,6 @@
 - [feathers-skypager](https://www.npmjs.com/package/feathers-skypager) - A skypager ORM service adapter (service)
 - [feathers-solr](https://www.npmjs.com/package/feathers-solr) - Solr Adapter for Feathersjs
 - [nextql-feathers](https://github.com/giapnguyen74/nextql-feathers) - Featherjs plugin for NextQL-Yet Another Data Query Language. Equivalent GraphQL but much more simple
-- [feathers-cassandra](https://github.com/dekelev/feathers-cassandra) - Feathers service adapter for Cassandra DB based on Express-Cassandra ORM and CassanKnex query builder
-- [feathers-json-patch](https://github.com/sibartlett/feathers-json-patch) - Add JSON Patch support to any Feathers database adapter or service.
 
 ### Documentation
 
