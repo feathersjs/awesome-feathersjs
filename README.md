@@ -331,6 +331,7 @@ Submit yours!
 
 ### AureliaJS
 
+- [aurelia-feathers-fusebox](https://github.com/PraveenGandhi/au-i18n-fusebox) - Featehrs v4 client, Aurelia, i18next, semantic ui, fuse-box
 - [aurelia-feathersjs-socket-demo](https://bitbucket.org/praveengandhi/aurelia-feathersjs-socket-demo) - Aurelia app (built with Aurelia-CLI) connected to Feathers server application via websockets (socket.io)
 
 ### Mithril
