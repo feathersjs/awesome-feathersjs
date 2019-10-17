@@ -21,6 +21,7 @@
   - [Database](#database)
   - [Documentation](#documentation)
   - [Email and SMS](#email-and-sms)
+  - [Google](#google)
   - [Hooks](#hooks)
   - [Payments](#payments)
   - [Scaling](#scaling)
@@ -195,6 +196,10 @@
 
 - [feathers-mailer](https://github.com/feathersjs-ecosystem/feathers-mailer) - Feathers mailer service using nodemailer (service)
 - [feathers-aws-sns](https://github.com/powerkernel/feathers-aws-sns) - Feathers AWS SNS service to use with Amazon Simple Notification Service (service)
+
+### Google
+
+- [feathers-google-maps](https://github.com/DaddyWarbucks/feathers-google-maps) - Feathers service for interacting with the Google Maps API (service)
 
 ### Hooks
 
