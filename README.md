@@ -315,6 +315,7 @@ The Feathers client works with React Native but here is a collection of native l
 - [feathers-react-redux](https://www.npmjs.com/package/feathers-react-redux) - Unofficial Feathers bindings for React-Redux.
 - [feathers-reduxify-services](https://github.com/eddyystop/feathers-reduxify-services) - Wrap Feathers services so they work transparently and perfectly with Redux.
 - [feathers-reduxify-authentication](https://github.com/eddyystop/feathers-reduxify-authentication) - Wrap Feathers.authentication so it works with Redux, and with auth packages for React-Router.
+- [figbird](https://humaans.github.io/figbird/) - Declarative and realtime data management for ultra responsive Feathers and React applications.
 
 ### VueJS
 
