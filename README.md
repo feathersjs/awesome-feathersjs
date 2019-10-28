@@ -34,7 +34,7 @@
 - [Mobile Clients](#mobile-clients)
   - [iOS](#ios)
   - [Android](#android)
-- [JS Clients](#js-clients)
+- [Frontend frameworks](#frontend-frameworks)
   - [Framework Agnostic](#framework-agnostic)
   - [DoneJS](#donejs)
   - [React and Redux](#react-and-redux)
@@ -316,6 +316,7 @@ The Feathers client works with React Native but here is a collection of native l
 - [feathers-reduxify-services](https://github.com/eddyystop/feathers-reduxify-services) - Wrap Feathers services so they work transparently and perfectly with Redux.
 - [feathers-reduxify-authentication](https://github.com/eddyystop/feathers-reduxify-authentication) - Wrap Feathers.authentication so it works with Redux, and with auth packages for React-Router.
 - [figbird](https://humaans.github.io/figbird/) - Declarative and realtime data management for ultra responsive Feathers and React applications.
+- [feathers-react](https://github.com/silvestreh/feathers-react) - A FeathersJS real-time React component library to display data
 
 ### VueJS
 
