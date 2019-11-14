@@ -115,6 +115,7 @@
 - [Gratify](https://gratifyhq.com)
 - [Headstart](http://www.headstartapp.com/)
 - [HaulHound](https://haulhound.com/)
+- [Humaans](https://humaans.io/)
 - [J.A.B. Property Investments](https://jabpi.com)
 - [JSONLog](https://jsonlog.io)
 - [Koola](http://koola.io/)
