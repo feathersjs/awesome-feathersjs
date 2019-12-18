@@ -73,35 +73,61 @@
 
 ### Examples
 
+#### Feathers-Chat
+
+Official Feathers Chat app & related front-end examples
+
 - [Feathers Chat](https://github.com/feathersjs/feathers-chat) ![Official Feathers Repo](/img/tiny-feathers-logo.png)
-- [Feathers React Native Chat](https://github.com/feathersjs-ecosystem/feathers-react-native-chat)
 - [Feathers-Vuex (Vue.js) Chat](https://github.com/feathers-plus/feathers-chat-vuex)
-- [Feathers-Vuex (Vue.js) TodoMVC example project](https://github.com/wdmtech/feathers-vuex-todomvc)
-- [Best Buy API Playground](https://github.com/BestBuy/api-playground)
-- [Feathers + Quasar](https://github.com/claustres/quasar-feathers-tutorial)
-- [Feathers + Apollo](https://github.com/swarthout/feathers-apollo)
-- [Feathers 2 + Vue 2 + SSR + Email Verification](https://github.com/codingfriend1/Feathers-Vue)
-- [Feathers 2 + Vue 2 + Email Verification + Cordova + Framework 7](https://github.com/codingfriend1/Feathers-Vue/tree/cordova)
-- [Feathers + React + Mobx](https://github.com/foxhound87/rfx-stack)
-- [Feathers + React + Webpack](https://github.com/sscaff1/feathers-webpack-react)
-- [Observables with Angular2 and FeathersJS](https://berndsgn.ch/posts/observables-with-angular-and-feathersjs/)
-- [Feathers + React + Redux + Webpack + local auth. Production quality](https://github.com/eddyystop/feathers-starter-react-redux-login-roles).
-- [Live query. Mirror part of a DB on the client.](https://github.com/eddyystop/feathers-live-query)
-- [Feathers + React + Redux + Webpack + complete auth + offline mode (ideal for production)](https://github.com/bertho-zero/react-redux-universal-hot-example)
-- [Build a CRUD App Using React, Redux and FeathersJS](https://www.sitepoint.com/crud-app-react-redux-feathersjs/)
-- [feathers-nuxt](https://github.com/silvestreh/feathers-nuxt) - A sample/starter for server-side rendered Vue.js + Feathers applications that supports user authentication
-- [Passwordless Auth Example Using feathers-authentication-management](https://github.com/rhythnic/feathers-passwordless-auth-example)
+- [Feathers React Native Chat](https://github.com/feathersjs-ecosystem/feathers-react-native-chat)
 - [Feathers Chat + Login with Facebook](https://github.com/morenoh149/feathers-chat-facebook-signup-api)
 - [Feathers Chat + Phone Signup SMS pin](https://github.com/morenoh149/feathers-chat-phone-signup-sms)
-- [Feathers + Forest Admin example](https://github.com/ForestAdmin/forest-examples/tree/master/examples/feathers/sql-database) - An example for integrating Feathers with [Forest admin](https://www.forestadmin.com/).
+- [Feathers Chat React + TypeScript](https://github.com/codyparker/feathers-chat-react-typescript)
+  
+#### React
+
+- [Feathers + React + Mobx](https://github.com/foxhound87/rfx-stack)
+- [Feathers + React + Webpack](https://github.com/sscaff1/feathers-webpack-react)
+- [Feathers + React + Redux + Webpack + local auth. Production quality](https://github.com/eddyystop/feathers-starter-react-redux-login-roles)
+- [Feathers + React + Redux + Webpack + complete auth + offline mode (ideal for production)](https://github.com/bertho-zero/react-redux-universal-hot-example)
 - [Feathers + Next.js](https://github.com/Albert-Gao/feathers-next-example)
-- [Feathers + Aor-feathers-client + Admin on Rest](https://github.com/kfern/feathers-aor-test-integration)
 - [MyEthereum.app: Feathers + Sequelize + React + Redux + Jest + Zeit deployments](https://github.com/petermikitsh/myethereumapp)
-- [Feathers + Vue and Nuxt](https://github.com/7kmCo/feathers-vue-nuxt) Nuxt.js or Vue.js templates.
-- [Feathers + Nuxt Boilerplate](https://gitlab.com/fexell/featherjs-nuxtjs-boilerplate) Feathers + Nuxt boilerplate with Login, Sign Up, Reauthentication, etc.
+- [Build a CRUD App Using React, Redux and FeathersJS](https://www.sitepoint.com/crud-app-react-redux-feathersjs/)
+
+#### Vue
+
+- [Feathers-Vuex (Vue.js) TodoMVC example project](https://github.com/wdmtech/feathers-vuex-todomvc)
 - [Quasar Feathers Structured Conversation](https://github.com/KnowledgeGarden/tqks-featherweight-prototype)
 - [Quasar Feathers tutorial](https://github.com/claustres/quasar-feathers-tutorial)
+- [Feathers + Quasar](https://github.com/claustres/quasar-feathers-tutorial)
+- [Feathers 2 + Vue 2 + SSR + Email Verification](https://github.com/codingfriend1/Feathers-Vue)
+- [Feathers 2 + Vue 2 + Email Verification + Cordova + Framework 7](https://github.com/codingfriend1/Feathers-Vue/tree/cordova)
+- [feathers-nuxt](https://github.com/silvestreh/feathers-nuxt) - A sample/starter for server-side rendered Vue.js + Feathers applications that supports user authentication
+- [Feathers + Vue and Nuxt](https://github.com/7kmCo/feathers-vue-nuxt) Nuxt.js or Vue.js templates.
+- [Feathers + Nuxt Boilerplate](https://gitlab.com/fexell/featherjs-nuxtjs-boilerplate) Feathers + Nuxt boilerplate with Login, Sign Up, Reauthentication, etc.
 - [Feathers + Nuxt Sao Template](https://github.com/feathers-nuxt/template-app)
+
+#### Angular
+
+- [Observables with Angular2 and FeathersJS](https://berndsgn.ch/posts/observables-with-angular-and-feathersjs/)
+
+#### Admin
+
+- [Feathers + Forest Admin example](https://github.com/ForestAdmin/forest-examples/tree/master/examples/feathers/sql-database) - An example for integrating Feathers with [Forest admin](https://www.forestadmin.com/).
+- [Feathers + Aor-feathers-client + Admin on Rest](https://github.com/kfern/feathers-aor-test-integration)
+
+#### Auth
+
+- [Passwordless Auth Example Using feathers-authentication-management](https://github.com/rhythnic/feathers-passwordless-auth-example)
+
+#### GraphQL / Apollo
+
+- [Feathers + Apollo](https://github.com/swarthout/feathers-apollo)
+
+#### Other
+
+- [Best Buy API Playground](https://github.com/BestBuy/api-playground)
+- [Live query. Mirror part of a DB on the client.](https://github.com/eddyystop/feathers-live-query)
 - [Frontless: Feathers + RiotJS + Turbolinks + Express](https://github.com/nesterow/frontless) Isomorphic application boilerplate for RiotJS.
 
 ## Projects Using Feathers
