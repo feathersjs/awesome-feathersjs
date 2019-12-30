@@ -213,6 +213,10 @@ Official Feathers Chat app & related front-end examples
 - [feathers-solr](https://www.npmjs.com/package/feathers-solr) - Solr Adapter for Feathersjs
 - [nextql-feathers](https://github.com/giapnguyen74/nextql-feathers) - Featherjs plugin for NextQL-Yet Another Data Query Language. Equivalent GraphQL but much more simple
 
+### APIs
+
+- [feathers-unsplash](https://github.com/marshallswain/feathers-unsplash) - Query the Unsplash API with FeatherJS query syntax.
+
 ### Documentation
 
 - [feathers-swagger](https://github.com/feathersjs-ecosystem/feathers-swagger) - Add documentation to your Feathers services and feed them to Swagger UI. (configure)
