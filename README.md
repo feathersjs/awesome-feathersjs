@@ -191,7 +191,7 @@ Official Feathers Chat app & related front-end examples
 - [feathers-blob](https://github.com/feathersjs-ecosystem/feathers-blob) - Feathers abstract blob store service (service)
 - [feathers-blueprints](https://www.npmjs.com/package/feathers-blueprints) - Add some of the Sails.js blueprints functionality to Feathers. (configure)
 - [feathers-bookshelf](https://www.npmjs.com/package/feathers-bookshelf) - A bookshelf ORM service adapter (service)
-- [feathers-cassandra](https://github.com/dekelev/feathers-cassandra) - Feathers service adapter for Cassandra DB based on Express-Cassandra ORM and CassanKnex query builder
+- [feathers-cassandra](https://github.com/feathersjs-ecosystem/feathers-cassandra) - Feathers service adapter for Cassandra DB based on Express-Cassandra ORM and CassanKnex query builder
 - [feathers-couchdb](https://github.com/lontongcorp/feathers-couchdb)
 - [feathersjs-couchbase](https://github.com/Sieabah/feathersjs-couchbase) - Full FeathersJS Query API for couchbase-server
 - [feathers-dynamodb](https://github.com/jus101/feathers-dynamodb) - Work in progress - help wanted!
