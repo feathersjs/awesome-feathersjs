@@ -34,7 +34,7 @@
 - [Mobile Clients](#mobile-clients)
   - [iOS](#ios)
   - [Android](#android)
-- [JS Clients](#js-clients)
+- [Frontend frameworks](#frontend-frameworks)
   - [Framework Agnostic](#framework-agnostic)
   - [DoneJS](#donejs)
   - [React and Redux](#react-and-redux)
@@ -73,35 +73,61 @@
 
 ### Examples
 
+#### Feathers-Chat
+
+Official Feathers Chat app & related front-end examples
+
 - [Feathers Chat](https://github.com/feathersjs/feathers-chat) ![Official Feathers Repo](/img/tiny-feathers-logo.png)
-- [Feathers React Native Chat](https://github.com/feathersjs-ecosystem/feathers-react-native-chat)
 - [Feathers-Vuex (Vue.js) Chat](https://github.com/feathers-plus/feathers-chat-vuex)
-- [Feathers-Vuex (Vue.js) TodoMVC example project](https://github.com/wdmtech/feathers-vuex-todomvc)
-- [Best Buy API Playground](https://github.com/BestBuy/api-playground)
-- [Feathers + Quasar](https://github.com/claustres/quasar-feathers-tutorial)
-- [Feathers + Apollo](https://github.com/swarthout/feathers-apollo)
-- [Feathers 2 + Vue 2 + SSR + Email Verification](https://github.com/codingfriend1/Feathers-Vue)
-- [Feathers 2 + Vue 2 + Email Verification + Cordova + Framework 7](https://github.com/codingfriend1/Feathers-Vue/tree/cordova)
-- [Feathers + React + Mobx](https://github.com/foxhound87/rfx-stack)
-- [Feathers + React + Webpack](https://github.com/sscaff1/feathers-webpack-react)
-- [Observables with Angular2 and FeathersJS](https://berndsgn.ch/posts/observables-with-angular-and-feathersjs/)
-- [Feathers + React + Redux + Webpack + local auth. Production quality](https://github.com/eddyystop/feathers-starter-react-redux-login-roles).
-- [Live query. Mirror part of a DB on the client.](https://github.com/eddyystop/feathers-live-query)
-- [Feathers + React + Redux + Webpack + complete auth + offline mode (ideal for production)](https://github.com/bertho-zero/react-redux-universal-hot-example)
-- [Build a CRUD App Using React, Redux and FeathersJS](https://www.sitepoint.com/crud-app-react-redux-feathersjs/)
-- [feathers-nuxt](https://github.com/silvestreh/feathers-nuxt) - A sample/starter for server-side rendered Vue.js + Feathers applications that supports user authentication
-- [Passwordless Auth Example Using feathers-authentication-management](https://github.com/rhythnic/feathers-passwordless-auth-example)
+- [Feathers React Native Chat](https://github.com/feathersjs-ecosystem/feathers-react-native-chat)
 - [Feathers Chat + Login with Facebook](https://github.com/morenoh149/feathers-chat-facebook-signup-api)
 - [Feathers Chat + Phone Signup SMS pin](https://github.com/morenoh149/feathers-chat-phone-signup-sms)
-- [Feathers + Forest Admin example](https://github.com/ForestAdmin/forest-examples/tree/master/examples/feathers/sql-database) - An example for integrating Feathers with [Forest admin](https://www.forestadmin.com/).
+- [Feathers Chat React + TypeScript](https://github.com/codyparker/feathers-chat-react-typescript)
+  
+#### React
+
+- [Feathers + React + Mobx](https://github.com/foxhound87/rfx-stack)
+- [Feathers + React + Webpack](https://github.com/sscaff1/feathers-webpack-react)
+- [Feathers + React + Redux + Webpack + local auth. Production quality](https://github.com/eddyystop/feathers-starter-react-redux-login-roles)
+- [Feathers + React + Redux + Webpack + complete auth + offline mode (ideal for production)](https://github.com/bertho-zero/react-redux-universal-hot-example)
 - [Feathers + Next.js](https://github.com/Albert-Gao/feathers-next-example)
-- [Feathers + Aor-feathers-client + Admin on Rest](https://github.com/kfern/feathers-aor-test-integration)
 - [MyEthereum.app: Feathers + Sequelize + React + Redux + Jest + Zeit deployments](https://github.com/petermikitsh/myethereumapp)
-- [Feathers + Vue and Nuxt](https://github.com/7kmCo/feathers-vue-nuxt) Nuxt.js or Vue.js templates.
-- [Feathers + Nuxt Boilerplate](https://gitlab.com/fexell/featherjs-nuxtjs-boilerplate) Feathers + Nuxt boilerplate with Login, Sign Up, Reauthentication, etc.
+- [Build a CRUD App Using React, Redux and FeathersJS](https://www.sitepoint.com/crud-app-react-redux-feathersjs/)
+
+#### Vue
+
+- [Feathers-Vuex (Vue.js) TodoMVC example project](https://github.com/wdmtech/feathers-vuex-todomvc)
 - [Quasar Feathers Structured Conversation](https://github.com/KnowledgeGarden/tqks-featherweight-prototype)
 - [Quasar Feathers tutorial](https://github.com/claustres/quasar-feathers-tutorial)
+- [Feathers + Quasar](https://github.com/claustres/quasar-feathers-tutorial)
+- [Feathers 2 + Vue 2 + SSR + Email Verification](https://github.com/codingfriend1/Feathers-Vue)
+- [Feathers 2 + Vue 2 + Email Verification + Cordova + Framework 7](https://github.com/codingfriend1/Feathers-Vue/tree/cordova)
+- [feathers-nuxt](https://github.com/silvestreh/feathers-nuxt) - A sample/starter for server-side rendered Vue.js + Feathers applications that supports user authentication
+- [Feathers + Vue and Nuxt](https://github.com/7kmCo/feathers-vue-nuxt) Nuxt.js or Vue.js templates.
+- [Feathers + Nuxt Boilerplate](https://gitlab.com/fexell/featherjs-nuxtjs-boilerplate) Feathers + Nuxt boilerplate with Login, Sign Up, Reauthentication, etc.
 - [Feathers + Nuxt Sao Template](https://github.com/feathers-nuxt/template-app)
+
+#### Angular
+
+- [Observables with Angular2 and FeathersJS](https://berndsgn.ch/posts/observables-with-angular-and-feathersjs/)
+
+#### Admin
+
+- [Feathers + Forest Admin example](https://github.com/ForestAdmin/forest-examples/tree/master/examples/feathers/sql-database) - An example for integrating Feathers with [Forest admin](https://www.forestadmin.com/).
+- [Feathers + Aor-feathers-client + Admin on Rest](https://github.com/kfern/feathers-aor-test-integration)
+
+#### Auth
+
+- [Passwordless Auth Example Using feathers-authentication-management](https://github.com/rhythnic/feathers-passwordless-auth-example)
+
+#### GraphQL / Apollo
+
+- [Feathers + Apollo](https://github.com/swarthout/feathers-apollo)
+
+#### Other
+
+- [Best Buy API Playground](https://github.com/BestBuy/api-playground)
+- [Live query. Mirror part of a DB on the client.](https://github.com/eddyystop/feathers-live-query)
 - [Frontless: Feathers + RiotJS + Turbolinks + Express](https://github.com/nesterow/frontless) Isomorphic application boilerplate for RiotJS.
 
 ## Projects Using Feathers
@@ -115,6 +141,7 @@
 - [Gratify](https://gratifyhq.com)
 - [Headstart](http://www.headstartapp.com/)
 - [HaulHound](https://haulhound.com/)
+- [Humaans](https://humaans.io/)
 - [J.A.B. Property Investments](https://jabpi.com)
 - [JSONLog](https://jsonlog.io)
 - [Koola](http://koola.io/)
@@ -164,7 +191,7 @@
 - [feathers-blob](https://github.com/feathersjs-ecosystem/feathers-blob) - Feathers abstract blob store service (service)
 - [feathers-blueprints](https://www.npmjs.com/package/feathers-blueprints) - Add some of the Sails.js blueprints functionality to Feathers. (configure)
 - [feathers-bookshelf](https://www.npmjs.com/package/feathers-bookshelf) - A bookshelf ORM service adapter (service)
-- [feathers-cassandra](https://github.com/dekelev/feathers-cassandra) - Feathers service adapter for Cassandra DB based on Express-Cassandra ORM and CassanKnex query builder
+- [feathers-cassandra](https://github.com/feathersjs-ecosystem/feathers-cassandra) - Feathers service adapter for Cassandra DB based on Express-Cassandra ORM and CassanKnex query builder
 - [feathers-couchdb](https://github.com/lontongcorp/feathers-couchdb)
 - [feathersjs-couchbase](https://github.com/Sieabah/feathersjs-couchbase) - Full FeathersJS Query API for couchbase-server
 - [feathers-dynamodb](https://github.com/jus101/feathers-dynamodb) - Work in progress - help wanted!
@@ -175,18 +202,20 @@
 - [feathers-mongo-collections](https://www.npmjs.com/package/feathers-mongo-collections) - MongoDB collections service for FeathersJS. (service)
 - [feathers-mongo-databases](https://www.npmjs.com/package/feathers-mongo-databases) - Create a MongoDB database service for FeathersJS. (service)
 - [feathers-mongodb-fuzzy-search](https://github.com/arve0/feathers-mongodb-fuzzy-search) - Add fuzzy search to your mongodb service queries
-- [feathers-mongodb-management](https://github.com/feathersjs-ecosystem/feathers-mongodb-management) - Manage MongoDB users, databases and collections using FeathersJS services.
 - [feathers-mongodb-revisions](https://www.npmjs.com/package/feathers-mongodb-revisions) - This Feathers database adapter extends the basic MongoDB adapter, adding revision support. (service)
 - [feathers-nedb-dump](https://www.npmjs.com/package/feathers-nedb-dump) - Middleware for Feathers.js - dumps and restores NeDB database for a given service (middleware)
 - [feathers-nedb-puzzy-search](https://www.npmjs.com/package/feathers-nedb-puzzy-search) - Add google-like $search to NeDB service.find queries.
 - [feathers-objection](https://github.com/feathersjs-ecosystem/feathers-objection) - A service adapter for [Objection.js](https://vincit.github.io/objection.js) - A minimal SQL ORM built on top of Knex.
 - [feathers-orm-service](https://www.npmjs.com/package/feathers-orm-service) - Easily create an Object Relational Mapping Service for Featherjs.
-- [feathers-rethinkdb](https://github.com/feathersjs-ecosystem/feathers-rethinkdb)
 - [feathers-rethinky](https://www.npmjs.com/package/feathers-rethinky) - Thinky.js RethinkDB Adaptor for Feathers JS
 - [feathers-seeder](https://www.npmjs.com/package/feathers-seeder) - Straightforward data seeder for FeathersJS services.
 - [feathers-skypager](https://www.npmjs.com/package/feathers-skypager) - A skypager ORM service adapter (service)
 - [feathers-solr](https://www.npmjs.com/package/feathers-solr) - Solr Adapter for Feathersjs
 - [nextql-feathers](https://github.com/giapnguyen74/nextql-feathers) - Featherjs plugin for NextQL-Yet Another Data Query Language. Equivalent GraphQL but much more simple
+
+### APIs
+
+- [feathers-unsplash](https://github.com/marshallswain/feathers-unsplash) - Query the Unsplash API with FeatherJS query syntax.
 
 ### Documentation
 
@@ -224,6 +253,7 @@
 - [feathers-sync](https://github.com/feathersjs-ecosystem/feathers-sync) - Synchronize service events between application instances using MongoDB publish/subscribe (configure)
 - [feathers-batch](https://github.com/feathersjs-ecosystem/feathers-batch/) - Batch multiple Feathers service calls into one (service)
 - [feathers-distributed](https://github.com/kalisio/feathers-distributed) - Distribute your Feathers services as microservices
+- [feathers-opossum](https://github.com/sajov/feathers-opossum) - A circuit breaker for Feathers services
 
 ### Social media
 
@@ -316,6 +346,8 @@ The Feathers client works with React Native but here is a collection of native l
 - [feathers-react-redux](https://www.npmjs.com/package/feathers-react-redux) - Unofficial Feathers bindings for React-Redux.
 - [feathers-reduxify-services](https://github.com/eddyystop/feathers-reduxify-services) - Wrap Feathers services so they work transparently and perfectly with Redux.
 - [feathers-reduxify-authentication](https://github.com/eddyystop/feathers-reduxify-authentication) - Wrap Feathers.authentication so it works with Redux, and with auth packages for React-Router.
+- [figbird](https://humaans.github.io/figbird/) - Declarative and realtime data management for ultra responsive Feathers and React applications.
+- [feathers-react](https://github.com/silvestreh/feathers-react) - A FeathersJS real-time React component library to display data
 
 ### VueJS
 
