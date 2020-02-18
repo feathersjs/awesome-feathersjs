@@ -203,7 +203,7 @@
 
 ### Hooks
 
-- [feathers-hooks-commons](https://feathers-plus.github.io/v1/feathers-hooks-common/) - Collection of useful Feathers hooks.
+- [feathers-hooks-commons](https://hooks-common.feathersjs.com/) - Collection of useful Feathers hooks.
 - [feathers-hooks-csvtoarray](https://www.npmjs.com/package/feathers-hooks-csvtoarray) - Feathers hook for converting a comma-delimited list to an Array of strings.
 - [feathers-hooks-jsonapify](https://www.npmjs.com/package/feathers-hooks-jsonapify) - Feathers hook for outputting data in a JSON-API-compliant way.
 - [feathers-populate-hook](https://www.npmjs.com/package/feathers-populate-hook) - Feathers hook to populate multiple fields with n:m, n:1 or 1:m relations. (hook)
