@@ -9,41 +9,55 @@
 
 > A list of awesome things related to FeathersJS
 
-- [Resources](#resources)
-  - [Official](#official-resources)
-  - [Videos](#videos)
-  - [Articles](#articles-and-blog-posts)
-  - [Examples](#examples)
-- [Projects Using Feathers](#projects-using-feathers)
-- [Plugins](#plugins)
-  - [Authentication and Authorization](#authentication-and-authorization)
-  - [Caching](#caching)
-  - [Database](#database)
-  - [Documentation](#documentation)
-  - [Email and SMS](#email-and-sms)
-  - [Google](#google)
-  - [Hooks](#hooks)
-  - [Payments](#payments)
-  - [Scaling](#scaling)
-  - [Social media](#social-media)
-  - [Testing](#testing)
-  - [Logging](#logging)
-  - [Transports](#transports)
-  - [Utilities](#utilities)
-  - [Validation](#validation)
-- [Mobile Clients](#mobile-clients)
+- [Awesome Feathers ![Awesome](https://awesome.re)](#awesome-feathers-img-src%22httpsawesomere%22-alt%22awesome%22)
+  - [Resources](#resources)
+    - [Official Resources](#official-resources)
+    - [Videos](#videos)
+    - [Articles and Blog Posts](#articles-and-blog-posts)
+    - [Examples](#examples)
+      - [Feathers-Chat](#feathers-chat)
+      - [React](#react)
+      - [Vue](#vue)
+      - [Angular](#angular)
+      - [Admin](#admin)
+      - [Auth](#auth)
+      - [GraphQL / Apollo](#graphql--apollo)
+      - [Other](#other)
+  - [Projects Using Feathers](#projects-using-feathers)
+  - [Plugins](#plugins)
+    - [Authentication and Authorization](#authentication-and-authorization)
+    - [Caching](#caching)
+    - [Database](#database)
+    - [APIs](#apis)
+    - [Documentation](#documentation)
+    - [Email and SMS](#email-and-sms)
+    - [Google](#google)
+    - [Hooks](#hooks)
+    - [Images](#images)
+    - [Payments](#payments)
+    - [Scaling](#scaling)
+    - [Search](#search)
+    - [Social media](#social-media)
+    - [Testing](#testing)
+    - [Logging](#logging)
+    - [Transports](#transports)
+    - [Utilities](#utilities)
+    - [Validation](#validation)
+  - [Mobile Clients](#mobile-clients)
   - [iOS](#ios)
   - [Android](#android)
-- [Frontend frameworks](#frontend-frameworks)
-  - [Framework Agnostic](#framework-agnostic)
-  - [DoneJS](#donejs)
-  - [React and Redux](#react-and-redux)
-  - [Vue.js](#vuejs)
-  - [Angular 1](#angular-1)
-  - [Angular 2](#angular-2)
-  - [Polymer](#polymer)
-  - [AureliaJS](#aureliajs)
-  - [Mithril](#mithril)
+  - [Frontend frameworks](#frontend-frameworks)
+    - [Framework Agnostic](#framework-agnostic)
+    - [DoneJS](#donejs)
+    - [React and Redux](#react-and-redux)
+    - [VueJS](#vuejs)
+    - [Angular 1](#angular-1)
+    - [Angular 2](#angular-2)
+    - [Polymer](#polymer)
+    - [AureliaJS](#aureliajs)
+    - [Mithril](#mithril)
+    - [React Admin](#react-admin)
+    - [Admin on Rest (replaced by React Admin)](#admin-on-rest-replaced-by-react-admin)
 
 ## Resources
 
@@ -83,7 +97,7 @@ Official Feathers Chat app & related front-end examples
 - [Feathers Chat + Login with Facebook](https://github.com/morenoh149/feathers-chat-facebook-signup-api)
 - [Feathers Chat + Phone Signup SMS pin](https://github.com/morenoh149/feathers-chat-phone-signup-sms)
 - [Feathers Chat React + TypeScript](https://github.com/codyparker/feathers-chat-react-typescript)
-  
+
 #### React
 
 - [Feathers + React + Mobx](https://github.com/foxhound87/rfx-stack)
@@ -135,6 +149,7 @@ Official Feathers Chat app & related front-end examples
 - [Akt'n'Map](https://aktnmap.com)
 - [BeachfrontDigital](https://beachfront.digital)
 - [ContactImpact](https://www.contactimpact.de)
+- [Cryptosheets](https://app.cryptosheets.com)
 - [Equibit Group](https://equibitgroup.com/)
 - [Foxflow](https://www.foxflow.com/)
 - [GenerousTickets](https://generoustickets.com/)
@@ -204,7 +219,7 @@ Official Feathers Chat app & related front-end examples
 - [feathers-mongodb-fuzzy-search](https://github.com/arve0/feathers-mongodb-fuzzy-search) - Add fuzzy search to your mongodb service queries
 - [feathers-mongodb-revisions](https://www.npmjs.com/package/feathers-mongodb-revisions) - This Feathers database adapter extends the basic MongoDB adapter, adding revision support. (service)
 - [feathers-nedb-dump](https://www.npmjs.com/package/feathers-nedb-dump) - Middleware for Feathers.js - dumps and restores NeDB database for a given service (middleware)
-- [feathers-nedb-puzzy-search](https://www.npmjs.com/package/feathers-nedb-puzzy-search) - Add google-like $search to NeDB service.find queries.
+- [feathers-nedb-puzzy-search](https://www.npmjs.com/package/feathers-nedb-puzzy-search) - Add google-like \$search to NeDB service.find queries.
 - [feathers-objection](https://github.com/feathersjs-ecosystem/feathers-objection) - A service adapter for [Objection.js](https://vincit.github.io/objection.js) - A minimal SQL ORM built on top of Knex.
 - [feathers-orm-service](https://www.npmjs.com/package/feathers-orm-service) - Easily create an Object Relational Mapping Service for Featherjs.
 - [feathers-rethinky](https://www.npmjs.com/package/feathers-rethinky) - Thinky.js RethinkDB Adaptor for Feathers JS
@@ -216,6 +231,7 @@ Official Feathers Chat app & related front-end examples
 ### APIs
 
 - [feathers-unsplash](https://github.com/marshallswain/feathers-unsplash) - Query the Unsplash API with FeatherJS query syntax.
+- [feathers-coinapi](https://github.com/johnatspreadstreet/feathers-coinapi) - Query the [CoinAPI](https://docs.coinapi.io) API through FeathersJS
 
 ### Documentation
 
@@ -240,6 +256,10 @@ Official Feathers Chat app & related front-end examples
 - [feathers-transform-hook](https://www.npmjs.com/package/feathers-transform-hook) - Feathers hook for transform hook.data parameters (hook)
 - [feathers-virtual-attribute-hook](https://www.npmjs.com/package/feathers-virtual-attribute-hook) - Feathers hook for add virtual attributes to your service response (hook)
 
+### Images
+
+- [feathers-cloudinary](https://github.com/johnatspreadstreet/feathers-cloudinary) - Utilize the [Cloudinary](https://cloudinary.com/documentation) API for image manipulation/parsing/uploading/editing.
+
 ### Payments
 
 - [feathers-stripe](https://github.com/feathersjs-ecosystem/feathers-stripe)
@@ -254,6 +274,10 @@ Official Feathers Chat app & related front-end examples
 - [feathers-batch](https://github.com/feathersjs-ecosystem/feathers-batch/) - Batch multiple Feathers service calls into one (service)
 - [feathers-distributed](https://github.com/kalisio/feathers-distributed) - Distribute your Feathers services as microservices
 - [feathers-opossum](https://github.com/sajov/feathers-opossum) - A circuit breaker for Feathers services
+
+### Search
+
+- [feathers-algolia](https://github.com/johnatspreadstreet/feathers-algolia) - Utilize the [Algolia](https://www.algolia.com/doc) API for implementing advanced search functionality into your FeathersJS application.
 
 ### Social media
 
