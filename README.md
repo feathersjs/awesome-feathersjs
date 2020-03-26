@@ -169,6 +169,7 @@ Official Feathers Chat app & related front-end examples
 - [Work ID](http://work.id/)
 - [Weacast](https://weacast.gitbooks.io/weacast-docs/)
 - [June.ai](https://june.ai/)
+- [Narrandum](https://narrandum.com)
 
 ## Plugins
 
