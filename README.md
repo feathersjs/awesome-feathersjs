@@ -228,7 +228,7 @@ Official Feathers Chat app & related front-end examples
 - [feathers-skypager](https://www.npmjs.com/package/feathers-skypager) - A skypager ORM service adapter (service)
 - [feathers-solr](https://www.npmjs.com/package/feathers-solr) - Solr Adapter for Feathersjs
 - [nextql-feathers](https://github.com/giapnguyen74/nextql-feathers) - Featherjs plugin for NextQL-Yet Another Data Query Language. Equivalent GraphQL but much more simple
-- [feathers-lowdb](https://github.com/lwhiteley/feathers-lowdb) - Featherjs database service adapter for [Lowdb][https://github.com/typicode/lowdb]
+- [feathers-lowdb](https://github.com/lwhiteley/feathers-lowdb) - Featherjs database service adapter for [Lowdb](https://github.com/typicode/lowdb)
 
 ### APIs
 
