@@ -380,13 +380,10 @@ The Feathers client works with React Native but here is a collection of native l
 - [vue-syncers-feathers](https://www.npmjs.com/package/vue-syncers-feathers) - Synchronises feathers services with vue objects, updated in real time (connector)
 - [vue-feathers](https://github.com/sunabozu/vue-feathers) - A plugin for Vuejs 1.x & 2.x to easily access your feathers services.
 
-### Angular 1
+### Angular
 
 - [ng-feathers](https://www.npmjs.com/package/ng-feathers) - Feathers client for AngularJS. FeatherJS for plain old AngularJS (1.X)
-
-### Angular 2
-
-Submit yours!
+- [feathers-reactive](https://github.com/feathersjs-ecosystem/feathers-reactive) - Live query streams for Feathers. Turns a Feathers service call into an RxJS observables that automatically updates on real-time events.
 
 ### Polymer
 
