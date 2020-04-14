@@ -329,6 +329,7 @@ Official Feathers Chat app & related front-end examples
 - [feathers-kong](https://github.com/dekelev/feathers-kong) - A Feathers service for [Kong API Gateway](https://docs.konghq.com) admin API
 
 - [feathers-hubspot-webhooks](https://github.com/dekelev/feathers-hubspot-webhooks) - Handle HubSpot webhooks in a FeathersJS service
+- [feathers-async-bootstrap](https://github.com/idaho/feathers-async-boot) - Booting feathers application asynchron
 
 ### Validation
 
