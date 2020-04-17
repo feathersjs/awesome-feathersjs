@@ -304,6 +304,7 @@ Official Feathers Chat app & related front-end examples
 - [@feathersjs/socketio-client](https://docs.feathersjs.com/api/client/socketio.html) ![Official Feathers Module](/img/tiny-feathers-logo.png)
 
 - [feathers-socketcluster](https://github.com/polst/feathers-socketcluster) - Use SocketCluster for client/server communication. Not published.
+- [feathers-rabbitmq-transport](https://www.npmjs.com/package/feathers-rabbitmq-transport) - Use a RabbitMQ message broker to communicate with the services of your app.
 
 ### Utilities
 
