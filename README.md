@@ -285,6 +285,10 @@ Official Feathers Chat app & related front-end examples
 
 - [feathers-services-instagram-feed](https://www.npmjs.com/package/feathers-services-instagram-feed) - A service that allows to fetch a given user's Instagram feed via its public endpoints.
 
+- [feathers-authentication-weapp](https://github.com/xixilive/feathers-authentication-weapp) - Wechat mini-program authentication strategy for feathers.
+
+- [feathers-client-weapp](https://github.com/xixilive/feathers-client-weapp) - Adapts feathers rest client for wechat mini-program.
+
 ### Testing
 
 - [feathers-tests-fake-app-users](https://www.npmjs.com/package/feathers-tests-fake-app-users) - Fake some feathers dependencies in service unit tests. Starter for your customized fakes (service)
