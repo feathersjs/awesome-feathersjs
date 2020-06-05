@@ -149,6 +149,7 @@ Official Feathers Chat app & related front-end examples
 - [Akt'n'Map](https://aktnmap.com)
 - [BeachfrontDigital](https://beachfront.digital)
 - [ContactImpact](https://www.contactimpact.de)
+- [County Committee Sunlight Project](https://ccsunlight.org)
 - [Cryptosheets](https://app.cryptosheets.com)
 - [Equibit Group](https://equibitgroup.com/)
 - [Foxflow](https://www.foxflow.com/)
@@ -202,6 +203,7 @@ Official Feathers Chat app & related front-end examples
 - [feathers-nedb](https://github.com/feathersjs-ecosystem/feathers-nedb) ![Official Feathers Module](/img/tiny-feathers-logo.png)
 - [feathers-sequelize](https://github.com/feathersjs-ecosystem/feathers-sequelize) ![Official Feathers Module](/img/tiny-feathers-logo.png)
 - [amity-mongodb](https://www.npmjs.com/package/amity-mongodb) - Use various FeatherJS services to manage a MongoDB server with Amity.
+- [feathers-airtable](https://github.com/jonascript/feathers-airtable) - A FeatherJS service adapter to manage your Airtable bases.
 - [feathers-arangodb](https://github.com/AnatidaeProject/feathers-arangodb) - A Feathers database adapter for ArangoDB using official NodeJS driver for ArangoDB.
 - [feathers-bee-queue](https://github.com/compwright/feathers-bee-queue) - Feathers service adapter for [Bee-Queue](https://www.npmjs.com/package/bee-queue) jobs
 - [feathers-blob](https://github.com/feathersjs-ecosystem/feathers-blob) - Feathers abstract blob store service (service)
