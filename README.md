@@ -107,6 +107,7 @@ Official Feathers Chat app & related front-end examples
 - [Feathers + Next.js](https://github.com/Albert-Gao/feathers-next-example)
 - [MyEthereum.app: Feathers + Sequelize + React + Redux + Jest + Zeit deployments](https://github.com/petermikitsh/myethereumapp)
 - [Build a CRUD App Using React, Redux and FeathersJS](https://www.sitepoint.com/crud-app-react-redux-feathersjs/)
+- [Hook based React.js package useFeathers demo](https://github.com/indatawetrust/use-feathers/tree/master/demo)
 
 #### Vue
 
@@ -382,6 +383,7 @@ The Feathers client works with React Native but here is a collection of native l
 - [feathers-reduxify-authentication](https://github.com/eddyystop/feathers-reduxify-authentication) - Wrap Feathers.authentication so it works with Redux, and with auth packages for React-Router.
 - [figbird](https://humaans.github.io/figbird/) - Declarative and realtime data management for ultra responsive Feathers and React applications.
 - [feathers-react](https://github.com/silvestreh/feathers-react) - A FeathersJS real-time React component library to display data
+- [use-feathers](https://github.com/indatawetrust/use-feathers) - React bindings for FeathersJS
 
 ### VueJS
 
