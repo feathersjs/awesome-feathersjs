@@ -246,6 +246,7 @@ Official Feathers Chat app & related front-end examples
 
 - [feathers-mailer](https://github.com/feathersjs-ecosystem/feathers-mailer) - Feathers mailer service using nodemailer (service)
 - [feathers-aws-sns](https://github.com/powerkernel/feathers-aws-sns) - Feathers AWS SNS service to use with Amazon Simple Notification Service (service)
+- [feathers-postmark](https://github.com/feathers-plus/feathers-postmark) - A [Postmark](https://postmarkapp.com/) API service adapter for FeathersJS
 
 ### Google
 
@@ -260,6 +261,8 @@ Official Feathers Chat app & related front-end examples
 - [feathers-populate-hook](https://www.npmjs.com/package/feathers-populate-hook) - Feathers hook to populate multiple fields with n:m, n:1 or 1:m relations. (hook)
 - [feathers-transform-hook](https://www.npmjs.com/package/feathers-transform-hook) - Feathers hook for transform hook.data parameters (hook)
 - [feathers-virtual-attribute-hook](https://www.npmjs.com/package/feathers-virtual-attribute-hook) - Feathers hook for add virtual attributes to your service response (hook)
+- [feathers-shallow-populate](https://github.com/Mattchewone/feathers-shallow-populate) - The fastest FeathersJS hook for populating relational data
+- [feathers-graph-populate](https://github.com/marshallswain/feathers-graph-populate) - Add lightning fast, GraphQL-like populates to your FeathersJS API
 
 ### Images
 
