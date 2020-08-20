@@ -282,6 +282,7 @@ Official Feathers Chat app & related front-end examples
 - [feathers-batch](https://github.com/feathersjs-ecosystem/feathers-batch/) - Batch multiple Feathers service calls into one (service)
 - [feathers-distributed](https://github.com/kalisio/feathers-distributed) - Distribute your Feathers services as microservices
 - [feathers-opossum](https://github.com/sajov/feathers-opossum) - A circuit breaker for Feathers services
+- [feathers-http-distributed](https://github.com/dekelev/feathers-http-distributed) - Distribute FeathersJS apps over the network with inter-service communication using HTTP protocol
 
 ### Search
 
