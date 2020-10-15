@@ -108,6 +108,7 @@ Official Feathers Chat app & related front-end examples
 - [MyEthereum.app: Feathers + Sequelize + React + Redux + Jest + Zeit deployments](https://github.com/petermikitsh/myethereumapp)
 - [Build a CRUD App Using React, Redux and FeathersJS](https://www.sitepoint.com/crud-app-react-redux-feathersjs/)
 - [Hook based React.js package useFeathers demo](https://github.com/indatawetrust/use-feathers/tree/master/demo)
+- [Feathers-React Starter](https://github.com/ingeniousambivert/Feathers-React-Starter)
 
 #### Vue
 
