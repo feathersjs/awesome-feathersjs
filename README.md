@@ -149,6 +149,7 @@ Official Feathers Chat app & related front-end examples
 ## Projects Using Feathers
 
 - [Akt'n'Map](https://aktnmap.com)
+- [APPoint](https://appoint-app.io)
 - [BeachfrontDigital](https://beachfront.digital)
 - [ContactImpact](https://www.contactimpact.de)
 - [County Committee Sunlight Project](https://ccsunlight.org)
