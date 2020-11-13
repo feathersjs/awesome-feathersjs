@@ -184,6 +184,7 @@ Official Feathers Chat app & related front-end examples
 - [@feathersjs/authentication-local](https://docs.feathersjs.com/api/authentication/local.html) ![Official Feathers Module](/img/tiny-feathers-logo.png)
 - [@feathersjs/authentication-oauth1](https://docs.feathersjs.com/api/authentication/oauth1.html) ![Official Feathers Module](/img/tiny-feathers-logo.png)
 - [@feathersjs/authentication-oauth2](https://docs.feathersjs.com/api/authentication/oauth2.html) ![Official Feathers Module](/img/tiny-feathers-logo.png)
+- [feathers-authentication-oidc](https://www.npmjs.com/package/feathers-authentication-oidc)
 - [feathers-accounts](https://www.npmjs.com/package/feathers-accounts) - Token-Based User Account System for FeathersJS (configure).
 - [feathers-authentication-popups](https://github.com/feathersjs/feathers-authentication-popups)
 - [feathers-authentication-keystone](https://github.com/virtuozzo/feathers-authentication-keystone)
