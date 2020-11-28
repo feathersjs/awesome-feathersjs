@@ -44,6 +44,7 @@
     - [Utilities](#utilities)
     - [Validation](#validation)
   - [Mobile Clients](#mobile-clients)
+  - [Flutter](#flutter)
   - [iOS](#ios)
   - [Android](#android)
   - [Frontend frameworks](#frontend-frameworks)
@@ -357,6 +358,10 @@ Official Feathers Chat app & related front-end examples
 ## Mobile Clients
 
 The Feathers client works with React Native but here is a collection of native libraries/SDKs.
+
+## Flutter
+
+- [FlutterFeathersJs](https://pub.dev/packages/flutter_feathersjs/) - Communicate with your feathers js server from flutter.
 
 ## iOS
 
