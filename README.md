@@ -85,6 +85,7 @@
 - [How to do server side rendering with Feathers.js and Next.js](http://www.albertgao.xyz/2018/02/04/how-to-do-server-side-rendering-with-feathersjs-and-nextjs/)
 - [Russian article - Связи между таблицами sequelize в FeathersJS](https://weburoki.pro/model-relation-feathers-feathers)
 - [Russian article about querying - Запросы сервисам FeathersJS](https://weburoki.pro/querying-feathersjs-service)
+- [Get started with Feathers & React](https://medium.com/javascript-in-plain-english/get-started-with-feathers-react-part-1-6b2b35a398c3)
 
 ### Examples
 
