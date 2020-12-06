@@ -397,6 +397,7 @@ The Feathers client works with React Native but here is a collection of native l
 - [figbird](https://humaans.github.io/figbird/) - Declarative and realtime data management for ultra responsive Feathers and React applications.
 - [feathers-react](https://github.com/silvestreh/feathers-react) - A FeathersJS real-time React component library to display data
 - [use-feathers](https://github.com/indatawetrust/use-feathers) - React bindings for FeathersJS
+- [feathers-mobx](https://github.com/florianguyonnet/feathers-mobx) - Inplement feathers client into your mobx store
 
 ### VueJS
 
