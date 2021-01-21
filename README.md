@@ -238,6 +238,9 @@ Official Feathers Chat app & related front-end examples
 - [nextql-feathers](https://github.com/giapnguyen74/nextql-feathers) - Featherjs plugin for NextQL-Yet Another Data Query Language. Equivalent GraphQL but much more simple
 - [feathers-lowdb](https://github.com/lwhiteley/feathers-lowdb) - Featherjs database service adapter for [Lowdb](https://github.com/typicode/lowdb)
 
+#### Database wrappers
+-  [@feathersjs-offline/owndata-ownnet](https://github.com/feathersjs-offline/owndata-ownnet) - FeatherJS Offline-first realtime database wrapper  implements the offline-first `own-data` / `own-net` replication principles on CRUD methods on any Feathers database adapter.
+
 ### APIs
 
 - [feathers-unsplash](https://github.com/marshallswain/feathers-unsplash) - Query the Unsplash API with FeatherJS query syntax.
@@ -378,6 +381,7 @@ The Feathers client works with React Native but here is a collection of native l
 - [@feathersjs/client](https://docs.feathersjs.com/api/client.html) ![Official Feathers Module](/img/tiny-feathers-logo.png) - All of the main client packages rolled into one.
 - [wings-feathers](https://www.npmjs.com/package/wings-feathers) - A FeathersJS 4-Way realtime reactive data sync and callback observable for any frontend frameworks (ie. React, Vue, Angular)
 - [feathers-reactive](https://github.com/feathersjs-ecosystem/feathers-reactive) - Live query streams for Feathers. Turns a Feathers service call into an RxJS observables that automatically updates on real-time events.
+-  [@feathersjs-offline/owndata-ownnet](https://github.com/feathersjs-offline/owndata-ownnet) - FeatherJS Offline-first realtime database wrapper  implements the offline-first `own-data` / `own-net` replication principles on CRUD methods on any Feathers database adapter.
 
 ### DoneJS
 
