@@ -193,6 +193,7 @@ Official Feathers Chat app & related front-end examples
 - [feathers-permissions](https://github.com/feathersjs-ecosystem/feathers-permissions)
 - [feathers-authentication-management](https://github.com/feathers-plus/feathers-authentication-management) - User email verification and password reset capabilities to local feathers-authentication (service)
 - [feathers-authentication-compatibility](https://www.npmjs.com/package/feathers-authentication-compatibility) - Keep `v0.x` clients compatible with `v1.0+` authentication
+- [feathers-cals](https://github.com/fratzinger/feathers-casl) - Add access control with CASL to Feathers.
 
 ### Caching
 
