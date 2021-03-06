@@ -16,6 +16,7 @@
     - [Articles and Blog Posts](#articles-and-blog-posts)
     - [Examples](#examples)
       - [Feathers-Chat](#feathers-chat)
+      - [Feathers-Scss-Postgres-Chat-App](https://github.com/jermsam/Feathers-Scss-Postgres-Chat-App)
       - [React](#react)
       - [Vue](#vue)
       - [Angular](#angular)
