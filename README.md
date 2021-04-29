@@ -126,10 +126,6 @@ Official Feathers Chat app & related front-end examples
 - [Feathers + Nuxt Boilerplate](https://gitlab.com/fexell/featherjs-nuxtjs-boilerplate) Feathers + Nuxt boilerplate with Login, Sign Up, Reauthentication, etc.
 - [Feathers + Nuxt Sao Template](https://github.com/feathers-nuxt/template-app)
 
-#### Angular
-
-- [Observables with Angular2 and FeathersJS](https://berndsgn.ch/posts/observables-with-angular-and-feathersjs/)
-
 #### Admin
 
 - [Feathers + Forest Admin example](https://github.com/ForestAdmin/forest-examples/tree/master/examples/feathers/sql-database) - An example for integrating Feathers with [Forest admin](https://www.forestadmin.com/).
