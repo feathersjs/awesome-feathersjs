@@ -243,6 +243,7 @@ Official Feathers Chat app & related front-end examples
 
 - [feathers-unsplash](https://github.com/marshallswain/feathers-unsplash) - Query the Unsplash API with FeatherJS query syntax.
 - [feathers-coinapi](https://github.com/johnatspreadstreet/feathers-coinapi) - Query the [CoinAPI](https://docs.coinapi.io) API through FeathersJS
+- [feathers-openweathermap](https://github.com/fratzinger/feathers-openweathermap) - Feathers service for interacting with the [OpenWeatherMap API](https://openweathermap.org/api). Use historical, current and forecast weather data.
 
 ### Documentation
 
