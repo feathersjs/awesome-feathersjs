@@ -235,6 +235,7 @@ Official Feathers Chat app & related front-end examples
 - [feathers-solr](https://www.npmjs.com/package/feathers-solr) - Solr Adapter for Feathersjs
 - [nextql-feathers](https://github.com/giapnguyen74/nextql-feathers) - Featherjs plugin for NextQL-Yet Another Data Query Language. Equivalent GraphQL but much more simple
 - [feathers-lowdb](https://github.com/lwhiteley/feathers-lowdb) - Featherjs database service adapter for [Lowdb](https://github.com/typicode/lowdb)
+- [feathers-ottoman](https://github.com/bwgjoseph/feathers-ottoman) - A Ottoman Service for feathers
 
 #### Database wrappers
 -  [@feathersjs-offline/owndata-ownnet](https://github.com/feathersjs-offline/owndata-ownnet) - FeatherJS Offline-first realtime database wrapper  implements the offline-first `own-data` / `own-net` replication principles on CRUD methods on any Feathers database adapter.
