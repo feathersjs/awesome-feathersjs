@@ -128,7 +128,6 @@ Official Feathers Chat app & related front-end examples
 
 #### Admin
 
-- [Feathers + Forest Admin example](https://github.com/ForestAdmin/forest-examples/tree/master/examples/feathers/sql-database) - An example for integrating Feathers with [Forest admin](https://www.forestadmin.com/).
 - [Feathers + Aor-feathers-client + Admin on Rest](https://github.com/kfern/feathers-aor-test-integration)
 
 #### Auth
