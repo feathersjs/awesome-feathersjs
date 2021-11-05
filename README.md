@@ -192,6 +192,7 @@ Official Feathers Chat app & related front-end examples
 - [feathers-elasticsearch](https://github.com/feathersjs-ecosystem/feathers-elasticsearch) ![Official Feathers Module](/img/tiny-feathers-logo.png)
 - [feathers-knex](https://github.com/feathersjs-ecosystem/feathers-knex) ![Official Feathers Module](/img/tiny-feathers-logo.png)
 - [feathers-localstorage](https://github.com/feathersjs-ecosystem/feathers-localstorage) ![Official Feathers Module](/img/tiny-feathers-logo.png)
+- [@feathersjs-offline/localforage](https://github.com/feathersjs-offline/localforage) - A FeathersJS service adapter for `WebSQL`, ÌndexedDB`, or `localStorage` enabling offline-first.
 - [feathers-memory](https://github.com/feathersjs-ecosystem/feathers-memory) ![Official Feathers Module](/img/tiny-feathers-logo.png)
 - [feathers-mongodb](https://github.com/feathersjs-ecosystem/feathers-mongodb) ![Official Feathers Module](/img/tiny-feathers-logo.png)
 - [feathers-mongoose](https://github.com/feathersjs-ecosystem/feathers-mongoose) ![Official Feathers Module](/img/tiny-feathers-logo.png)
