@@ -245,6 +245,7 @@ Official Feathers Chat app & related front-end examples
 - [feathers-populate-hook](https://www.npmjs.com/package/feathers-populate-hook) - Feathers hook to populate multiple fields with n:m, n:1 or 1:m relations. (hook)
 - [feathers-shallow-populate](https://github.com/Mattchewone/feathers-shallow-populate) - The fastest FeathersJS hook for populating relational data
 - [feathers-graph-populate](https://github.com/marshallswain/feathers-graph-populate) - Add lightning fast, GraphQL-like populates to your FeathersJS API
+- [feathers-trigger](https://github.com/fratzinger/feathers-trigger) - Add triggers and actions to your feathers app for notifications, protocols or logs.
 
 ### Images
 
