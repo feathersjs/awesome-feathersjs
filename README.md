@@ -213,6 +213,7 @@ Official Feathers Chat app & related front-end examples
 - [feathers-solr](https://www.npmjs.com/package/feathers-solr) - Solr Adapter for Feathersjs
 - [feathers-lowdb](https://github.com/lwhiteley/feathers-lowdb) - Featherjs database service adapter for [Lowdb](https://github.com/typicode/lowdb)
 - [feathers-ottoman](https://github.com/bwgjoseph/feathers-ottoman) - A Ottoman Service for feathers
+- [feathers-prisma](https://github.com/ps73/feathers-prisma) - A service adapter for [Prisma](https://www.prisma.io/) (PostgreSQL, MySQL, SQLite, SQL Server,MongoDB)
 
 #### Database wrappers
 -  [@feathersjs-offline/owndata-ownnet](https://github.com/feathersjs-offline/owndata-ownnet) - FeatherJS Offline-first realtime database wrapper  implements the offline-first `own-data` / `own-net` replication principles on CRUD methods on any Feathers database adapter.
