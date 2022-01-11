@@ -146,6 +146,7 @@ Official Feathers Chat app & related front-end examples
 
 ## Projects Using Feathers
 
+- [Adaptable.io](https://adaptable.io)
 - [Akt'n'Map](https://aktnmap.com)
 - [APPoint](https://appoint-app.io)
 - [BeachfrontDigital](https://beachfront.digital)
