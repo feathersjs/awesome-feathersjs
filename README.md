@@ -233,6 +233,7 @@ Official Feathers Chat app & related front-end examples
 - [feathers-mailer](https://github.com/feathersjs-ecosystem/feathers-mailer) - Feathers mailer service using nodemailer (service)
 - [feathers-aws-sns](https://github.com/powerkernel/feathers-aws-sns) - Feathers AWS SNS service to use with Amazon Simple Notification Service (service)
 - [feathers-postmark](https://github.com/feathers-plus/feathers-postmark) - A [Postmark](https://postmarkapp.com/) API service adapter for FeathersJS
+- [feathers-messagebird](https://github.com/fratzinger/feathers-messagebird) - A [Messagebird](https://messagebird.com/) API service adapter for FeathersJS
 
 ### Google
 
