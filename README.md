@@ -159,6 +159,7 @@ Official Feathers Chat app & related front-end examples
 - [HaulHound](https://haulhound.com/)
 - [Humaans](https://humaans.io/)
 - [JSONLog](https://jsonlog.io)
+- [June.ai](https://june.ai/)
 - [Koola](http://koola.io/)
 - [Krawler](https://kalisio.github.io/krawler/)
 - [Shakepay](https://shakepay.co)
@@ -167,7 +168,7 @@ Official Feathers Chat app & related front-end examples
 - [Stoplight](https://stoplight.io/)
 - [Taxfyle](https://www.taxfyle.com/)
 - [Weacast](https://weacast.github.io/weacast-docs/)
-- [June.ai](https://june.ai/)
+- [XREngine](https://github.com/xrfoundation/xrengine)
 
 ## Plugins
 
