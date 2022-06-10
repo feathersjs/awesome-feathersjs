@@ -359,6 +359,7 @@ The Feathers client works with React Native but here is a collection of native l
 
 ### VueJS
 
+- [feathers-pinia](https://feathers-pinia.pages.dev) - A Feathers Client wrapper that integrates with Pinia.
 - [feathers-vuex](https://github.com/feathers-plus/feathers-vuex) - Integration of Feathers services with your Vuex store.
 
 ### Angular
