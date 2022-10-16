@@ -269,6 +269,7 @@ Official Feathers Chat app & related front-end examples
 - [feathers-distributed](https://github.com/kalisio/feathers-distributed) - Distribute your Feathers services as microservices
 - [feathers-opossum](https://github.com/sajov/feathers-opossum) - A circuit breaker for Feathers services
 - [feathers-http-distributed](https://github.com/dekelev/feathers-http-distributed) - Distribute FeathersJS apps over the network with inter-service communication using HTTP protocol
+- [feathers-express-ip](https://github.com/digitalcortex/feathers-express-ip) - Expose client's IP address to your Feathers services for whitelisting, rate limiting and tracing the requests
 
 ### Search
 
