@@ -60,6 +60,8 @@
     - [Mithril](#mithril)
     - [React Admin](#react-admin)
     - [Admin on Rest (replaced by React Admin)](#admin-on-rest-replaced-by-react-admin)
+    - [AdminJS](#adminjs)
+
 
 ## Resources
 
@@ -377,3 +379,8 @@ The Feathers client works with React Native but here is a collection of native l
 ### Admin on Rest (replaced by React Admin)
 
 - [Aor-feathers-client](https://github.com/josx/aor-feathers-client) - A feathers rest client for admin-on-rest. (Admin)
+
+
+### AdminJS
+
+- [adminjs-feathers](https://github.com/AshotN/adminjs-feathers) - A feathers adapter for AdminJS. (Admin)
