@@ -5,7 +5,9 @@
   <br>
 </p>
 
-# Awesome Feathers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# [MOVED] Awesome Feathers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+**Archived** in favor of https://feathersjs.com/ecosystem/?sort=lastPublish
 
 > A list of awesome things related to FeathersJS
 
