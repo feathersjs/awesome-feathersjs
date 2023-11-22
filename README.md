@@ -203,7 +203,6 @@ Official Feathers Chat app & related front-end examples
 - [feathers-airtable](https://github.com/jonascript/feathers-airtable) - A FeatherJS service adapter to manage your Airtable bases.
 - [feathers-arangodb](https://github.com/AnatidaeProject/feathers-arangodb) - A Feathers database adapter for ArangoDB using official NodeJS driver for ArangoDB.
 - [feathers-bee-queue](https://github.com/compwright/feathers-bee-queue) - Feathers service adapter for [Bee-Queue](https://www.npmjs.com/package/bee-queue) jobs
-- [feathers-blob](https://github.com/feathersjs-ecosystem/feathers-blob) - Feathers abstract blob store service (service)
 - [feathers-cassandra](https://github.com/feathersjs-ecosystem/feathers-cassandra) - Feathers service adapter for Cassandra DB based on Express-Cassandra ORM and CassanKnex query builder
 - [feathersjs-couchbase](https://github.com/Sieabah/feathersjs-couchbase) - Full FeathersJS Query API for couchbase-server
 - [feathers-dynamodb](https://github.com/jus101/feathers-dynamodb) - Work in progress - help wanted!
@@ -219,6 +218,10 @@ Official Feathers Chat app & related front-end examples
 
 #### Database wrappers
 -  [@feathersjs-offline/owndata-ownnet](https://github.com/feathersjs-offline/owndata-ownnet) - FeatherJS Offline-first realtime database wrapper  implements the offline-first `own-data` / `own-net` replication principles on CRUD methods on any Feathers database adapter.
+
+### File upload
+- [feathers-blob](https://github.com/feathersjs-ecosystem/feathers-blob) - Feathers abstract blob store service (service)
+- [feathers-s3](https://github.com/kalisio/feathers-s3) - Manage files through S3-compatible APIs with FeathersJS (service and helpers)
 
 ### APIs
 
