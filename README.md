@@ -320,6 +320,7 @@ Official Feathers Chat app & related front-end examples
 
 - [feathers-hubspot-webhooks](https://github.com/dekelev/feathers-hubspot-webhooks) - Handle HubSpot webhooks in a FeathersJS service
 - [feathers-async-bootstrap](https://github.com/idaho/feathers-async-boot) - Booting feathers application asynchron
+- [feathers-rpc](https://github.com/jamesvillarrubia/feathers-rpc) - Middleware to use Google-style RPC syntax for custom methods
 
 ### Validation
 
